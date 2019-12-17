@@ -1,0 +1,741 @@
+* 4/6/2019 [Young Link] [Battlefield]
+*** me vs netplay young link, 6/2/2019
+situation: opponent is in the air near the ledge, you're just under the side
+platform. what can they do?
+- land with an aerial
+- land on a platform
+- drift back to ledge
+- air dodge down
+- land and go for a defensive option
+- tomahawk
+i can shield -- i think i can react to the aerial coming out. not sure how well
+that works against a tomahawk. i can also probably react to the air dodge down
+and, if they get low enough that they can't aerial, i can pre-emptively aerial
+oos. that covers (1), (4), (5), and (6). drifting back to ledge is fine, i just
+set up a ledge trap.  and landing on platform is fine too, since that is
+advantage for me. 
+definitely don't dash back here. 
+
+situation: young link in the corner, me on the other side of the platform. what
+can he do?
+- shield
+- arrow
+- boomerang
+- pull bomb
+- run up shield
+- run in nair
+generally i feel like they want to do a projectile here. pretty sure that jump
+in bite beats that, but i need to do a bit more research on this one. that also
+beats shield. the bite loses to an aggro nair or something though. but that's
+actually fine, because it's a fine mixup to dj backwards and drift in with
+whatever i want to punish the whiffed nair. 
+
+situation: young link on the platform
+- fall through aerial
+- fall through shield
+- run back fall through aerial
+- run back fall through shield
+- shield
+- jump
+- jump to center
+- run off b-reverse arrow
+ok so he did the last one and i definitely wasn't ready for it. but i think run
+up shield beats that. a little tired right now, but this is a situation i need
+to lab out. 
+
+situation: young link on the top platform
+- fall through aerial
+i would cover this by shielding his aerial
+i would bait this by short hopping up like i plan to hit him
+- fall through, drift back, arrow
+i would cover this by jumping so that i'm above him as he falls, then coming
+down with fair
+i would bait this by hovering in the air or being on the ground where the
+platforms meet
+- full hop
+i don't think i can cover this but it doesn't put him in a better spot. i think
+the best thing to do is make him burn his DJ and then shark him
+i would bait this by full hopping like i'm going to uair his shield
+- run to either platform
+jump to platform -> bite? up air in the space between the platforms? upair where
+he's going to land on the platform?
+
+00:03:15: above you at the ledge, he comes down with aggro aerial. should go for
+grab at the ledge because nair upair doesn't work because he's off stage
+-> yl ledge 1: neutral get up -> shield
+-> yl corner 1: shield
+00:05:28: don't dash dance here, just hold ground
+00:11:06: don't do that edgeguard. next time, if you don't know what to do, just
+stand at roll range and see what they do. 
+-> yl corner 2: boomerang
+00:16:24: more patience at the ledge, most people don't get up immediately and
+even if they do they probably have invincibility
+-> yl ledge 2: ledge hop nair
+00:19:08: he likes to land aggressively. he shields after landing
+
+* 9/25/2019 [Pikachu] [PS2]
+- 00:06:10 he falls on me with the nair. i know that move barely has any
+  lag. but i want to get the hit really bad, so i nair out of shield. of course
+  it doesn't hit, pikachu is small. he just up-tilts me and starts a combo. 
+
+LESSON: Don't immediately reach for Nair OOS. 
+EXPLORE: Other out of shield options when I know the Nair won't hit. Figuring
+out when the nair will hit. For example, I can hit Squirtle sometimes with it,
+and he's smaller than Pikachu. When they're low profiling or in landing lag, it
+definitely won't hit. 
+
+For one, fair. Sometimes it will hit where nair won't. What's the shield
+pressure matrix...?
+
+- 00:05 why dtilt when pika is above you? just muscle memory to fair and double
+  dtilt... 
+
+EXPLORE: He lands on you with a move that has low lag. He's small, so nair isn't
+going to hit. What can you do? 
+- Dash towards center
+- Spot dodge
+- Shield, then
+  - Roll towards center
+  - Jump
+
+Spot dodge is probably too slow. His uptilt is really fast, so I'd probably just
+get hit with the second one.
+
+Shield is not bad because he is facing opposite from me so he can't grab. But I
+can't Nair oos (because rat) and I can't fair oos (wrong way), so all I could
+really do is roll...
+
+Which means I might as well just dash. 
+
+EXPORE: He jumps at you from the corner. 
+What are his options?
+Early aerial
+Late aerial
+Tomahawk
++ 
+Drift forwards/backwards
+
+What are your options?
+Uptilt (anti air)
+Shield
+Jump backward
+Jump in and aerial
+
+Any of the drift forward aerials means that he wants to hit you then. Shield
+grab would work. For drift back, shield doesn't do any harm, they are just
+closer to you. Short hop back and drift in could cover a lot..fair or bair them
+after their early aerial is done, bite them if they land and shield, land out of
+range of their late aerial and you have no lag. 
+
+- 00:13:23 why would I jump there? pikachu can't do anything to you. make a note
+  of just recovering low more often. 
+- 00:32:26 I land here, and I can react to him jumping up with that bair. I
+  immediately up-tilt to try to catch him, but he fades back. and then pikachu
+  on the ground is fast, and i....up-tilt again? i dont know if dtilt would have
+  came out fast enough, but...i dont know why he would jump there
+- 00:39:15 needlessly put myself into lag with that nair. why would he run right
+  there when i'm in the air?
+
+EXPLORE: what do they do when i'm holding center in the air?
+- jump in, fade back to bait out an aerial, land with an aerial to get me. 
+
+- 00:55:22 that fsmash is way too fast to punish at that range. he has time to
+  finish his spot dodge. a better nair would have actually hit there, but if he
+  just up tilts, then i'm getting hit. 
+- 00:59:20 bad nair
+- 1:02 grab there
+- 1:13 when he jumps back here, it's clear that he wants to tjolt. tjolt is
+  fast, you have to try to preempt it...could i run up shield there? dash away
+  seems like a bad option, because pikachu takes stage for free..like i dont
+  want my main option to be one where pikachu isn't at least forced into a
+  mixup. i might could run up and fair him depending on how close i am. i could
+  shield where i am, but that's a pretty easy grab. i could jump over the tjolt,
+  but then where do i go? if he runs in i can try landing with fair, but i don't
+  have great moves to cover below me, so if he runs in and up airs or fairs, i
+  think it will hit me. if i'm closer to the platform, i could jump on the
+  platform and fall through with a fair if he tries to approach. 
+- 1:51 i guess i nair cause i think he will come in but i dont think it works
+  whether he tomahawks or aerials me
+- 2:22 dont ftilt there, thats so slow
+- 3:10 bad nair oos
+- 4:02 overextend, you can threaten there for a lot of characters but not chu,
+  dont let him get on stage 4 free
+- 4:55 when i threaten him as he goes for jump tjolt he lands with fair...i
+  could run up shield grab
+- 5:16 could i use this? he know i wants to bair him, so he jumps in the range
+  and jumps back out to bait it. 
+* 11/10/2019 [Terry] [PS2 / Town]
+0:10: why do i run in and nair here? think about what he can do at that spacing:
+- he could retreat, because he's not in range for any of his attacks
+- he can run up defensively -- run up shield, or run up and short hop back
+- he can run up offensively. maybe throw out a really fast jab, or run in and do
+  an aerial. 
+
+nair isn't going to beat any of these. nair is good to beat whiffs and unsafe
+stuff on shield. 
+
+0:13: after we both miss our aerials, i dash back. it might be better to jump
+back so i can drift in easily if he also dashes back (which he does)
+
+0:15: i go for a bait here. against someone really aware like fatality, maybe
+not good one. basically want to bait him into thinking i am going to whiff off
+that platform, but then jump back up at the last second to punish him trying to
+get the whiff punish. he doesn't fall for it. i think it's bad because fair
+doesn't have a lot of lag anyway so i am not sure if he could get there
+
+0:19: not sure why he would go for that side-b there. 
+
+0:22: this combo should be bare minimum 40, maybe 50-60. make sure you do the
+late upair!
+
+0:28: sharking...what options does he have here? he can drift either
+direction. he can neutral air dodge to the ground. he can use a high or low
+aerial. he can side-b. 
+
+what can i do? i can wait for him to go down and up-tilt. i can go up there and
+nab at him with an upair. i can dash dance around and grab his landing. i can
+shield. 
+
+he picked high aerial. up-tilt totally would have landed! even upair...if they
+don't have a quick move to threaten below them, upair is a lot more
+threatening. basically, them using an aerial downwards means then think you're
+going to come up and chase them. bait it out by pretending to go up, or
+conditioning them by actually doing it earlier. air dodge is a safer way for
+them to predict that you're going to hit them. 
+
+0:34: the bite was good here. i mean, that's a classic, and it works a
+bunch. definitely keep going for these, the difference is that when you see that
+he's not gonna stay in shield the first time, don't spam it next time. realize
+that he'll probably do the same thing. 
+
+-> good thing to ask: what do i want here? i'm at zero, he's at fifty. no waft
+in play. i'd say i want a couple things: 
+fair knockdown into tech chase. racks up an easy 20 and puts me into advantage. 
+falling upair, solid 30+ and advantage
+
+(gonna peace out to watch what tweek goes for at 49-75)
+close fair -> dash attack (true)
+fair
+fair dtilt
+bair to get offstage
+grab to fthrow
+shield mixup w/ bite
+fair
+landing upair
+platform upairs
+full hop nair??
+super low fair
+high fair
+fair dtilt
+early fair to tech chase dash attack
+
+yeah..seems like this percent is a lot of fairing. racking it up so that bair
+either kills or sets up for a good edgeguard. 
+
+what am i going for?
+
+0:30: i get the fair and tech chase with downtilt, but it doesn't knockdown,,,
+
+0:32: ok, so you hit his shield, he doesn't realize it will crossup, now you get
+to do some pressure. first off, if you could react to that whiffed grab, o
+realize that that you were gonna cross up, just uptilt. but anyway you can cross
+up with fair a good bit so it is good to have a plan for what to do.
+
+i think it's basically like other shield pressure scenarios. they can roll out,
+jump out, aerial out, wait for the utilt then try to do either of above
+
+1:13: if you see them jump, don't try to bair them like that...they can probably
+react to your jump faster!
+
+1:24: he jumps and immediately aerials because you have been calling out jumps
+hard. so he wants to catch you doing that. 
+
+1:30 you have faired from that platform twice in a row now...curious to see if
+he will adapt. 
+
+1:40: here would be a good place to go for a bite. 
+
+1:57: do fair grab 
+* 11/13/2019 [Ike] [PS2]
+** initial impressions
+initial impressions
+jumping back at that spacing will make him want to jump in so drift forward fair
+
+he falls for the ledge trap where you fuck off then run in bite. 
+
+go for grab after fair and dtilt when they dont knock down because people want
+to shield and sometimes have to 
+
+much less nair, it really doesnt hit solo
+
+be more aware of when to bite so that you are ready for it
+
+after side b run in and jump after hes mentally commited to the spot dodge or
+ftilt then bite him
+
+never ever ever go onto the side platform when you are doing normal corner
+pressure, they can fucking run right under you
+
+he wants to get the tomahawk ftilt or high nair ftilt at high %
+** analysis
+0:02: Be cognisant of not putting up shield until there is actually a chance
+that they will hit you. 
+
+0:02: Another habit to track: What do they do after landing a really safe
+aerial? Here, he drifts back with his nair and neither of us are in range at
+all. Does he like to dash back here? Does he like to jump in? This time is a
+dash back -- I immediately dash back too, but that doesn't make much
+sense. Since he's not in range, I can react to him jumping towards me. Or I can
+move towards him to take stage. 
+
+0:03: I am not sure what to do at this spacing. Getting under him with an uptilt
+seems like a good idea, but I'm not sure if I can get there before the nair
+comes out. I could run up shield and try to parry it if I can get a bead on his
+nair timing. 
+
+0:05: This is a situation that happens a lot versus like every character and I
+think is a real big one for improving stage positioning. When they just try to
+jump to center. First, you have to be aware that they want to do that. But
+second, you want to generally position yourself between them and center to
+discourage that jump in the first place. Why wouldn't they do that jump if
+you're not in the way?
+
+0:06: My idea of running under him and catching with uptilt isn't really
+good. Nair swings all the way down too quickly. Actually, it looks like 15 or 16
+frames before someone under would get hit. I thin that if I was actually under
+him, that may have worked. 
+
+0:08: When you jump back, SOLO likes to jump after you. Catch that by drifting
+in and fairing.
+
+0:08: Watch what they do in the gaps between your shield pressure. Also, he
+might not have even realized that I had pressure because I jumped backwards,
+which looks defensive. 
+
+0:09: Don't land with upair instinctively. It's pretty hard to position, so
+you're not going to get it randomly. You totally could have landed with a
+B-reverse bite there. 
+
+0:09: Also, when you land, don't immediately go for shield. Like, he just
+whiffed a really laggy up-tilt. Pretty sure that he's going to go for an
+immediate defensive option. Resist the urge to shield 
+
+0:10: Bad nair OOS. Why would he drop shield there? He's either going to roll or
+jump, or wait for bad pressure and Up B. Nair doesn't beat any of that. Probably
+better to just wait and get the grab. 
+
+0:12: Up throw up air timings. He jumped, so it hit, but you wanted to hit the
+upair pretty much right as you DJ. 
+
+0:13: Thought he was going to try to land with nair so I dash danced, but he air
+dodged and I ended up not being able to follow. I don't think people usually go
+for the aggressive landing as their main option. 
+
+0:14: You're attacking where he is -- first of all, he's got air dodge
+invulnerability. Second of all, he just air dodged and doesn't have time to put
+out an aerial before he lands. Why would you not try to catch the landing?
+
+00:14: Also, you can see how much he uses tilts as a defensive option. 
+
+0:16: Mixups when dtilt/fair don't knock down!
+
+0:18: This is a good time to go for a short hop shield mixup. You're facing the
+wrong way to get the grab, but if you hop over him he'll probably stay in
+shield. If he rolls or something, that's data for what he wants to do there next
+time. 
+
+00:24: Follow up some of these fairs and downtilts with grab. 
+
+0:26: Right after you get hit with this up-tilt: When Ike hits you, but you stay
+close to him...I don't think there's much he can do to safely follow up. His
+nair is kind of slow to come out. I think seven frames, plus three frames of
+jumpsquat. (n.b. it's 11 frames for nair to start coming out, a few more for it
+to fully cover in front of Ike)
+
+00:28: Watch him jump in again to chase you when you jump back.
+
+0:28: After the raw forward smash: If you happen to catch him doing this again,
+just jump over it and then get a landing mixup. 
+
+0:33: If he lands on the platform after he hits you up, he's probably going to
+try to extend by hitting you rather than waiting. 
+
+00:35: Impatient dash attack. Remember, when people land with laggy stuff they
+want to do something defensive immediately out of the lag. 
+
+0:35: You could be getting so much off shield pressure scenarios if you were
+more aware of when they were open to you. 
+
+00:38: Hard read on the roll in is okay, but make him respect tech in place and
+stuff first. Plus, you don't even have a waft, so you don't want to condition
+him to expect that read now when the payoff isn't big 
+
+00:38: Attacking where he is instead of where he will be
+
+00:41: High fair gives him time to shield. You always do the same pattern of
+fair->dtilt->fair. 
+
+
+
+
+
+
+* 11/18/2019 [Chrom] [PS2]
+0:04: i see him do this approach a lot. run up, stop, then run in with a nair. i
+bet that i could react to the stop with...fair for sure, but something better?
+maybe a pivot grab...? would dash in nair work?
+
+0:07: don't make falling upair your go to option. it should be a mixup after
+conditioning, especially against someone who is good at parrying. remember, bite
+and tomahawk exist too. 
+
+0:08: remember your defensive options. rolling would have been good here. ditto
+jumping backwards. aerial oos probably not. shield grab probably not. 
+
+0:21: stop doing mindless aerials because it's muscle memory!
+
+0:22: why would you nair here? mindlessly approaching is not good corner
+pressure. if he does something defensive like shield or jump, your nair
+loses. if he does something offensive, like run in and nair, his sword outspaces
+you and you get hit. do not do this nair ever. as for what to replace it
+with...that's just corner pressure in general. will need to watch that. 
+
+0:22: he does something dumb here too just nairing into the corner. you get
+center back. but boy, don't do that falling upair off the platform. it simply
+does not work. 
+
+0:23: your instinct after landing is to dash back. watch him punish this later
+in the game. notice how he also dashes back too when you aren't even in range
+for anything at the original spacing. 
+
+0:25: i think the jump back is a pretty solid idea here. it's noncommittal, it's
+safe, you can cover a bunch of options off of it (run in? land with fair and dj
+if you have to. jump? he can't move horizontally, just land and keep
+space. shield? take space. you reacted to him dashing in with fair but he just
+stopped. then you grabbed which was...i hope a missed input. just heat of the
+moment shit. 
+
+0:26: he fucks up and fast falls too early, lands on the platform. so you can
+keep center. you couldn't stay between him and center when he jumped because of
+the grab. if you notice him fuck up on the plat, bite. 
+
+0:27: after the fair, you reflexively dash back. 
+
+0:29: he just waits when you jump back in that situation. you fuck up and land
+on the platform. when you hop off of it...you reflexively dash back. 
+
+0:31: kenneth tests the waters by jumping in and jumping back. i would think
+next time he would choose the other option and attack if he runs up. 
+
+0:31: mindlessly dash back after landing
+
+0:32: not sure why i jumped forward there, but if I jumped back i'm pretty sure
+I could have covered that roll with bite. pretty sure the roll was in reaction
+to me dashing back. well half reaction half read. 
+
+note: look how few hitboxes i threw out in that ten seconds of corner
+pressure. i'm not saying to spam bithoxes, but you can't hit him if hitboxes
+aren't out. there is something to be said for waiting for the other guy to mess
+up though -- he just didn't mess up. 
+
+0:33: dashing back...
+
+0:34: why jump back onto this platform? platform generally not where you want to
+be vs mr. chrome. also...i think the point of floating around is that you get to
+react to a bunch of shit with fair conversions n stuff. like, if you had double
+jumped, you probably catch his nair. 
+
+0:34: speaking of his nair...look at 0:23 too. this seems to be how he
+approaches in this situation. run in and nair to catch defensively running back
+or dropping through, then if you shield he's under you and he can do upair
+pressure. smart!
+
+0:34: oh yeah, one more thing from this v informative platform scneario. STOP
+RUN OFF AERIAL. it doesnt work lol. 
+
+0:35: DASHING BACK
+
+0:37: he finally catches you dashing back with an overshoot. the thing with all
+of the dashing back is that you are applying no pressure whatsoever. by that i
+mean: there's no threat at all that you will hit him. 
+
+note: what does chrom want off of nair? usually it's another nair, right?
+
+0:38: he tries to follow up nair with fair. the uptilt isn't bad after...depends
+what you think they'll do out of shield. i don't think chrom has anything super
+fast oos besides up-b. counted fair and it's like 15 frames between jumpsquat
+until the hitbox would hit you grounded. 
+
+0:43: good DI by him. checked this one hard and i dont think i could have gotten
+that upair. 
+
+0:45: he catches me retreating again. 
+
+0:47: look at you drifting in here. you can see that, it's hard
+drift. do not drift in there. do not drift in after combo starters. do not drift
+in after combo starters. for the love of god, don't drift in there. seriously
+dude, remember that he has a sword. landing with nair or trying to aerial
+interrupt him with nair is really not that good of an idea. it can work on a
+special few occasions, but it should absolutely be a rare mixup. 
+
+1:50: running off the platform with a quick *defensive* aerial is good because
+it covers them trying to run under to get center, which is a common way to get
+out of the corner. 
+* 11/26/2019 [Roy] [Battlefield]
+** analysis
+0:02 her fair is spaced well enough that you can't get nair out of shield (in
+general this will be the case against swords). but that fair isn't really safe
+on hit, or valuable to you at all. use even less aerial out of shield. an aerial
+mixup would be good here. normally after safe or pseudo safe pressure roy will
+go for a jab, a downtilt, or another aerial. i think you have good odds vs any
+of those with aerial mixup. (in fact you can see that she goes for a dtilt here)
+
+0:05: need a damn flowchart here. there are two mixups that can be done. the
+first is which way you drift. the second is whether you land on a platform or
+not. if only #1 is in play, seems like the best thing to do is just wait it out
+and then grab. roy can't drift THAT far. an idea for handling #2 is to just jump
+under them, upair if they land on plat and falling upair if they land on the
+ground. 
+
+0:08 you KNOW a defensive option is coming out and the chances you can follow up
+on this with >1 upair are small so why not try to bait it out. 
+
+0:10 getting up-b'd again. really focus on what they are doing to get out of
+your aerial mixups!
+
+0:13 second time this situation has happened: roy lands a well-spaced fair on
+your shield. you go for the same option again. and it leads to the exact damn
+situation because roy is still too low for that fair to put in work. you choose
+the same option there (uptilt -> shield)
+
+0:22 i do this a lot -- just jump forward into this space but don't put out a
+hitbox. i don't think that it's very productive...?
+
+0:30 consider just jumping over her to center when you do ledge hop. you don't
+always have to aerial. 
+
+0:32 THATS why you do double dtilt, to cover the spot dodge. but if it connects,
+just go for the grab at that %, that looked true. 
+
+0:34 the jump in bite is kind of a hard callout...also remember that you're
+practicing keeping people in the corner here, so let them have the corner. 
+
+0:39 you gotta fast fall that fair
+
+0:41 why throw up shield after the dtilt hits? it's like 20 frames so i think
+you can react
+
+0:41 good bite on the aerial mixup, you just messed it up
+
+0:53 good read on the fact that cat will try to punish that nair, but that it's
+not really punishable. and the dash back is a good play, because she's gonna
+aerial or up b oos to do it. next time though just have some patience and go for
+an aerial mixup or for the grab. 
+
+0:54 we talked about this, just grab her. (hell maybe falling upair waft would
+have worked here...)
+
+1:01 you pretty much knew she was gonna be able to get shield up here, and
+uptilt on shield really is not a good move. it just has never worked in this
+game. so go for something different. perhaps:
+aerial mixup
+turnaround grab
+fall through upair
+fall through -> land -> late upair
+fall through -> b-reverse bite
+
+1:19 same situation with the nair bait, you get her to run at you while you are
+very much actionable. here you go for the dash back f-tilt. not good against roy
+because his sword is long and he's not trying to approach you from the ground
+like that. instead maybe:
+run up shield to fuck with his spacing and make the aerial punishable. 
+dash out -> dash in -> fair
+pivot grab??
+
+1:38 why throw up shield in reaction to her jumping over you ?_? even before
+that, when she goes to the platform from ledge you should do the basketball
+spacing to force her to find another way into center. 
+
+1:43 here is a good corner pressure situation. last time (1:32) i ran in and
+fair'd her. this time, i mix it up with run in bite. the little dash dance is
+good, too. it stops her from being able to jump over me. and it lets me space if
+she lands with an aerial 
+
+1:46 don't dash out there. that's an instinctive dash out. no need and prevented
+me from punishing. 
+
+1:51 problem with this edgeguard is that you'll never have the horizontal
+distance to hit the drill. instead, you need to float over where roy wants to up
+B. run off fair might actually work there?
+
+1:55 i dash out immediately here...the thing that beats dash out is them taking
+space. like jumping up on that platform. cat is aggressive, so she's going to
+want to do that option more. you have to punish her for that. 
+dash in -> short hop -> fair (beats her dashing in, but loses to an early aerial)
+dash in -> full hop -> fair (beats her jumping to platform, but loses to an
+early aerial)
+dash back (beats early aerials, loses to dashing in)
+
+2:01 same situation as before -- i get a fadeback nair on her shield in the
+corner. i actually bait the aerial out of shield, and hit a dash back, but then
+i go for an ftilt...ftilt is too slow. roy's aerials are quick. maybe a fair is
+better?
+
+2:29 what do i do here? i am in center, she is on the platform. i feel like she
+can jump at me and land with a safe aerial. and that is hard to punish. 
+
+2:35 another dash back...kind of good that i am working on the idea i had, but
+really obvious here that she's just taking space by jumping in. need to
+adapt. she is jumping in and landing with safe aerials. 
+
+2:53 roll behind ftilt is soooo bad here, it's so slow, jab is quick, you know
+that she'll have time to do something. 
+
+3:09 looks like you can dash dance around her early aerial escape options. but
+damn, you really need to hit that combo
+
+3:14 another habit of mine: when i drop the combo, i want to go for another nair
+starter. 
+
+3:15 jab -> jab -> nair
+
+3:23 jumping in and just holding it there (especially vs an aggro player)
+** condensed
+fair out of shield when they aren't at knockdown percents isn't good. at
+mid-high percents (30 to 50 or so), it can be alright as a 'get off me', but it
+might not be safe on hit. at lower percents, it's definitely not safe on
+hit. don't need to worry about this too much the other way around because wario
+isn't really hitting you with safe aerials on shield. 
+
+you need to punish up b out of shield more. try jumping to cover the platform
+mixup. if there is no platform mixup, probably just wait and grab. also, do less
+things to let them up b oos. 
+
+be keen for situations where they are going to want to throw out a defensive
+option. then, punish the defensive option with e.g. utilt, grab,
+bite. especially common is where you hit a combo starter that is kind of
+fraudulent -- they're going to be really eager to get out of it, and if you
+don't think you could definitely get a punish, why not wait?
+
+well spaced aerials on shield. try jumping. if you land a fair that doesn't
+knock down, punish their desire to shield afterwards. do an aerial mixup, or
+just grab them. or jump out. 
+
+do not jump forward into center without intent.
+
+hit your fast falls on fairs. 
+
+use much, much less ftilt. especially against characters that don't have much
+landing lag. ftilt takes 12 frames to come out and is active for like ~3
+frames. if they have a 10 frame lag move that doesn't give you a big window to
+time the ftilt. 
+
+use much less uptilt on shield, or on situations where you think they're gonna
+shield. do not instinctively uptilt after landing something unsafe. 
+
+be more intentional with your dashbacks. always remember that dashing back
+allows them to take space, and if they show that option often then dashing back
+is not a great thing to do. dashing back allows you to react to them 
+* 12/10/2019 [Chrom] [Smashville]
+0:02 no mindless nairs at really far spacing
+
+0:05 that nair on shield is not good...coming right out of the jab either you're
+going to get jabbed, nair over her dtilt, or she will parry it and you
+take 25. you get lucky here.
+
+0:07 low % upthrow upair dont even fuck with reading DI, just get that upair out
+nice n early. basically want the equivalent of buffer fh uair. 
+
+0:10 what is she doing after she burns her DJ?
+drift toward the edge and land with fair
+land on the platform
+react to my jump with air dodge
+react to my jump with dair
+grab ledge
+
+i could jump up to bait one of those defensive options. i could run to threaten
+the platform and make her take the corner. i could match her drift and dash
+dance around the landing fair. i could go up and hit her. 
+
+GOOD! you actually predicted what option she'd do. it was the first one,
+too. she'll drift toward the edge and land with fair. and you outspaced it and
+got the grab. 
+
+0:11 what is my ledge trap?
+jump when she grabs edge to react to a ledge hop with an aerial
+empty land when you see one isn't coming out
+run up -> full hop -> nair to catch a jump again
+react with drift back when there is no jump
+i guess that you gotta be ready for the roll when you do fadeback nair. you're
+in really good position to grab there but you aren't ready for it. 
+
+0:16 cat reacts to your landing with that full hop. then she does the late
+aerial. basically if you think she's gonna do that jump, then get up there and
+throw out a faster aerial. is she doing it as an approach option, or as shield
+pressure? also, if you know your shield is going to get hit by that
+aerial...just jumping could be a great option. she can't get a jab or tilt
+after, and if she jumps you can prob react and hit it. if she rolls out like she
+did you drift in and land with a fair. 
+
+0:19 great read! she techs in a lot, and you have to make her respect
+those. don't throw in the extra dash dance after. that's just button
+pushing. space yourself right for the read, and then execute on it. 
+
+
+0:18 good aerial out of shield. i feel like cat always keeps putting on more
+pressure in these scenarios. with hitboxes. and there was a gap in her
+pressure. 
+
+0:24 i really like that wait, and to be honest it might have worked. i think the
+dash dance is a fine idea to make cat think you're going in. and throw out an
+aerial to smack you down. but you went for a run in fair...of course she's gonna
+land with an aerial there. 
+
+0:28 THAT is what i was thinking of. just need to execute after. dtilt dash
+attack is juicy, but thing is that grab -> pummel -> pummel -> fthrow is getting
+you 20 easy and also offstage. AND it covers if you mistime and shield. just go
+for the grab on these dash dance whiff punishes. also the extra dashes into her
+wasted frames and made the dtilt not work...makes me think i was not
+confident/clear in what i was doing
+
+0:33 just go to ledge dude
+
+0:42 wasn't doing this consciously, but i actually like this...dash in to make
+them want to jump over you, then dash out so that they are in disadvantage above
+you. but i know it wasn't intentional because i did something dumb after (dash
+in). the dash dance is super good because if they don't bite, they're in the
+same position as before but without ledge invulnerability. of course they could
+read it and neutral get up on the dash out. but the run up shield is just
+unnecessary. you may want to do that if they hang on for a while, just so you do
+the shield at ledge trap. but you can clearly react to jump. BUTTON PRESSING. 
+
+0:46 she's still in lag. why dj? just react to her jumping imo
+
+0:47 bad nair, dashback or jab or dtilt or nair in place or jump over or shield
+beats it. what does that nair even beat? pressing buttons. 
+
+0:48 something to note: when she jabs or dtilts you at that farther spacing. you
+can't really aerial out of shield. your nair is active for 6 frames but since
+you are so far away it only trades with the ftilt
+
+1:01 jumping back to center like that is bad, what are you really gonna do?
+pretty sure she can just frame trap you. with upair. 
+
+1:04 doing that nair from that high is the epitome of pressing buttons. there's
+no option that beats. 
+
+1:06 that one too
+
+1:12 not great awareness of her height and the speed she can get up to do
+stuff. 
+
+** condensed
+really watch nair out of shield. in particular, when they are at a far spacing
+and when they have time to put up shield and potentially parry. 
+
+if someone likes to do late aerials on your shield, pop them out of the air. 
+
+execute your reads. if you are going to read something, commit to it and execute
+the punish (e.g. reading tech in).
+
+upthrow upair leads to sharking situations. what are their options?
