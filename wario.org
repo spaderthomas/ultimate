@@ -822,6 +822,55 @@ DI all of his combos out at high %. It can be a mixup to DI in.
 ** Mario
 - out of shield game is super strong, so don't try to go for falling upair
   really. 
+** Pac Man
+be very careful of fsmash into hydrant. it can do like 40. 0
+
+when pac runs behind his hydrant and is actionable, there's a wall of space that
+you can't approach. he covers in front of him with the hydrant and can aerial
+diagonally above him.
+*** WHEN HE'S ABOVE YOU
+if pac is above you, he can do two things:
+1) continue moving forward and land with an aerial
+2) jump backward, hydrant, get an item
+you can probably jump up and throw out a fair to cover the aerial, and then be
+in place to punish or land with bite if he uses hydrant. 
+
+*** HOW TO APPROACH
+pre-empt pac wanting to run back -> throw hydrant -> fruit cycle by jumping over
+him and initiating a mixup. important to pre-empt
+
+basic mixups for wario: 
+you can land with an aerial
+you can land with bite
+you can empty land and uptilt
+
+basic reactions:
+nair oos (wins if you land with an aerial)
+roll (avoid the mixup)
+do a high aerial (wins if you want to bite)
+the only time i really saw pacman approach was when he did galaga -> run in ->
+buffer fair -> land with nair or fair
+
+if pac doesn't want to interact, run up and take center. 
+
+pac can anti air dumb telegraphed approaches from behind the hydrant by doing an
+early aerial. you gotta know when he will retreat and hydrant -> fruit cycle,
+and follow him to initiate a mixup, instead of reacting to him doing it. 
+
+after that, mix up your timings. mix in dash in -> backflip, empty hops, double
+jump out. keep his rhythm off.
+
+if you're too late and you can't be there as he is hydranting/cycling, bait them
+to bair the hydrant as an anti approach. you can drift back empty land and slap
+the hydrant, and it'll push it out. 
+*** HOW TO WAFT
+use tomahawk uptilt as a way to get the waft -- try this in the aerial mixup
+situation where you are calling out his hydrant/fruit cycle. you can also force
+him to do something in the corner, and if he likes to roll try to be ready for
+it. 
+
+you can also condition them to roll on the ledge, do an empty backflip and
+uptilt -> waft
 ** Palutena
 when you've got her with just her up b and below the stage, the dair is pretty
 free. just do it at the ledge and time it right, and it's gonna hit.
@@ -862,6 +911,15 @@ WAFT. CAMP. Don't do pure lame circle camping, but if it starts getting dicey
 it's a great idea to be non-interactive for 20 seconds. 
 
 Go for gyro parries. 
+
+At mid to close range, you can approach with a short hop. Or in scramble
+situations. His dtilt is really good, and it's by far his fastest and best
+normal. But you can pretty easily short hop over it. 
+
+After he lands on your shield, don't (usually) empty full hop. A lot of the
+time, if they safely nair on your shield, they're gonna jump up again. You can
+smack that out of the air, because nair has a lot of startup, but if you just
+empty full hop to see what they do, you're going to get hit. 
 *** OOS
 Once you're in, push advantage. He's only got a few options out of shield:
 Standard options (roll, spot dodge, jump)
@@ -980,7 +1038,7 @@ even get close to her when she can low aerial all day so safely.
 
 i guess i have to play the game of figuring out her aerial timings, and then
 punishing those. 
-* Exploration
+* Analysis
 ** tweek vs jw                   [approaching]
 https://www.youtube.com/watch?v=5dxxzIqn_Go
 0:36: jumps backward at close range to see what he's going to do. drifts in,
@@ -1341,6 +1399,170 @@ whiff again with dashback.
 https://youtu.be/17JFpLfyUI0?t=583
 dash out -> run up shield -> sh backward -> dash in -> sh fair
 an extension of what we saw before. 
+** glutonny vs eking             [pacman]
+https://www.youtube.com/watch?v=8wORKD1p6cU
+0:59 - he backs off here instead of going for an aerial mixup. why? weird
+hydrant stuff isn't in play, no item, seems like a good place to get a bite.
+
+1:04 - pacman approach:
+
+throw galaga, short hop double fair.
+1:12 - gluto jumps in here while pac is charging item and does go for the bite
+
+1:15 - if he doesn't want to interact, take center and shield
+
+1:39 - another run up shield
+
+1:40 - he likes to full hop after the run up shield, just to see what pac will
+do. so far, pacman has been jumping away.
+
+2:17 - pac loves to go for short hop double aerial. approaching, double
+fair. here, fair -> nair
+
+3:12 - the key kills
+
+3:50 - landing with aerials like this is how you get naired oos
+
+4:00 - land a safe aerial, shield to bait the nair, then utilt? idk if you can
+really bait the nair because you are very stubby
+
+4:53 - go try to hit em at close range if they don't have a fruit
+
+5:56 - watch pac calling out the empty hops when you're fucking around with his
+hydrant in the corner
+
+6:16 - pac kinda short, this bair misses
+
+6:20 - gluto punished for occupying that space diagonally above pac
+
+6:33 - what's pac gonna do here? he has two options:
+1) continue moving forward and land with an aerial
+2) jump backward, hydrant, get an item
+hold your ground, if he continues moving forward then shield the landing aerial
+or pluck him out of the air. if you see him jump backward, react and get in
+whatever position you want to be in for pressuring him when hydrant is up (tbd)
+6:39 - the next sequence, gluto just does a bunch of empty hops and dash in in
+center to make pac commit...but he just puts up a hydrant. is this good?
+
+7:58 - same deal as earlier: throw galaga, run in fair.
+
+8:29 - cool way to get the waft: 
+1) condition them to want to roll off ledge by using bite a lot, fh nair
+2) run up, fh backflip
+3) utilt -> waft
+   
+*** results
+the only time i really saw pacman approach was when he did galaga -> run in ->
+buffer fair -> land with nair or fair
+
+if pac doesn't want to interact, run up and take center. after that...
+
+mix up your timings. pacman can stuff you out if you approach him charging his
+item in the corner, by preemptively putting out an aerial. mix in dash in ->
+backflip, empty hops, double jump out. keep his rhythm off. 
+
+if pac is above you, he can do two things:
+1) continue moving forward and land with an aerial
+2) jump backward, hydrant, get an item
+you can probably jump up and throw out a fair to cover the aerial, and then be
+in place to punish or land with bite if he uses hydrant. 
+
+be very careful of fsmash into hydrant. it can do like 40. 0
+
+the ledge trap you can do if you condition them to roll (empty backflip, utilt,
+waft)
+** mata-door vs ben              [pacman]
+0:45 - pac can react to you trying to swat him out of the air with an
+aerial. maybe you need to be up there before he decides to hydrant?
+
+0:47 - dude just straight up jumps over him and hits him with landing nair
+because he thinks that pac will fruit cycle
+
+1:04 - when not in nair oos range, pac likes to roll, especially with no good
+fruit
+
+1:16 - pacs probably have nair oos burned into their neural pathways, so be sure
+to heavy abuse bite until they adapt
+
+1:36 - watch how he anti-airs with the bair, you need to be careful how you land
+
+> on second watch, the double jump bait is nice. you don't gain/lose much, but you can get decent stage.
+1:45 - another cool way to get the waft: tomahawk uptilt to catch the nair
+
+1:55 - bell in the air isn't threatening if you are above upsmash height.
+
+2:14 - this is how pac will anti air these corner hydrant approaches. hence why
+you have to mix up timings. maybe you can do what mata does and empty land ->
+ftilt hydrant?
+
+2:19 - when you run after pac, jump on top of him. he doesn't have good anti
+air, and it's going to catch him with his pants down when he hydrants or fruits
+
+2:27 - again, pac just wants to anti-air when you approach like this by doing a
+pre-emptive aerial.
+
+> difference between how he got in on previous two exchanges but couldn't here is that pac didn't want to camp. his hydrant was in cooldown, and he already had a fruit. so he's way less likely to camp/stall, and more likely to try and stuff you out.
+2:28 - good bait to get the nair oos to come out
+
+2:33 - when you get in these weird pac situations, just hold shield and roll...
+
+2:54 - abuse bite if they don't adapt.
+
+2:56 - another option when they are corner camping: slap the hydrant
+
+3:31 - gimmicky, but...? just uptilt, read when they want to aerial by
+shielding, then get the uptilt waft.
+
+4:31 - don't like standing on platform like that. camp, but at least be in some
+kind of threat range. you can burn more time that way by gradually giving up
+center if you're losing neutral, and hit him if he fucks up.
+
+4:54 - just raw jumps in here, so he's betting that pac won't anti air
+
+5:05 - classic projectile character thing: throw projectile, then try to read
+the jump
+
+5:19 - hits him again with the empty hop...pac isn't really anti airing?
+
+5:55 - abuse bite! use weird timings too. he dtilts twice, so now there is a
+mixup between whether you are gonna hit the hydrant or do something else. again,
+pac isn't using anti airs, so bite.
+
+8:13 - another anti corner camping strat: threaten something, fade back, then
+punish their out of corner option. what's it gonna be other than
+
+1) roll
+2) aerial
+3) throw fruit
+4) hit hydrant
+especially if you can bait out the aerial by seeming unsafe.
+
+*** results
+pre-empt pac wanting to run back -> throw hydrant -> fruit cycle by jumping over
+him and initiating a mixup. 
+
+basic mixups for wario: 
+you can land with an aerial
+you can land with bite
+you can empty land and uptilt
+
+basic reactions:
+nair oos (wins if you land with an aerial)
+roll (avoid the mixup)
+do a high aerial (wins if you want to bite)
+
+when pac runs behind his hydrant and is actionable, there's a wall of space that
+you can't approach. he covers in front of him with the hydrant and can aerial
+diagonally above him.
+
+pac can anti air dumb telegraphed approaches from behind the hydrant by doing an
+early aerial. you gotta know when he will retreat and hydrant -> fruit cycle,
+and follow him to initiate a mixup. 
+
+if you can bait them to bair the hydrant as an anti approach, you can drift back
+empty land and slap. 
+
+use tomahawk uptilt as a way to get the waft. 
 * Friendly Notes
 ** 5/27/2019 @ netplay
 things i noticed people doing:
@@ -1532,6 +1754,10 @@ https://youtu.be/K0aAunaTD48?t=731
 half, true, chrom, 72%
 he catches the rill with an uptilt. full hop, waft four frames after leave the
 ground (so pretty quick)
+
+https://youtu.be/gtX-O8Mdb_Y?t=337
+half, true, joker, 77%
+buffer fh, then read DI with dj and immediately waft
 * Combos
 running nair at center stage at 0. fast fall the nair early. slightly delay the
 first upair. buffer the second upair. full hop the third one, then fast fall
