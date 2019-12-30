@@ -758,6 +758,7 @@ situation
  B-reverse bite
  Backward jump
 * Matchups
+** D3
 ** Greninja
 Greninja requires patience. He's quick enough and his aerials have little enough
 lag that he can space outside your range, box you out with aerials, and react to
@@ -1638,6 +1639,38 @@ the approach and catch them landing.
 
 7:42 - brilliant sequence
 
+** Glutonny vs Zaki              [d3]
+https://www.youtube.com/watch?v=bw9-_1xhXww
+https://flowfeedback.com/feedback/8QCss3JMHKZg8wCZD
+
+0:31 - geki takes spaces, then does a fh into a gordo. i am guessing that he could threaten fair or something here too?
+0:32 - gluto backs off, drifts in as he sees the gordo, but then decides not to challenge d3 (i'm guessing that he could stuff him out with a tilt or something before wario could really hit him)
+0:33 - remember what corey said: full hop in the corner. zaki backs off, so gluto takes space
+0:36 - lots of full hops in neutral. he also does this full hop in with no intention to hit him just to see what he's gonna do.
+0:40 - gluto is fine being in the corner, he just full hops once he lands. you can see zaki jump to cover the air space this time, but gluto mixes in a dash dance.
+0:47 - why does gluto come down with a move here? i guess he thinks that zaki will try to call him out for being in the air? or just a random mix?
+0:52 - COMBO HIM HARD
+0:54 - tries to call out a jump but too slow, he's on the gas more here instead of camping. i guess because he doesn't want to get hit by gordo in response to his air camping?
+0:57 - bike is super good against gordo
+1:16 - that looks like button pressing...the bair into the dair into the dash attack. and he gets hit for it.
+1:36 - instead of drifting back here he goes in for the bite, and it calls out the gordo. but note how he has to go really high to avoid getting hit by the gordo.
+1:59 - d3 wants you to come in his space so he can hit you with one of those massive aerials
+2:03 - again, he jumps into the space wario wants to approach at, does a huge aerial high, and then lands with little lag
+2:04 - retreat and throw out a gordo after the aerial
+2:10 - another high, fast aerial -> dash back -> gordo
+2:20 - kill confirm: weak nair -> uair
+2:29 - more full hop (well, instant DJ but doesn't make a difference) to see what happens, you can smack the gordo out of the air with fair quite easily
+2:45 - he does another one of those high aerials
+2:50 - landing gordo is a mixup to the high aerial
+3:00 - call out jumps with fair at close range, plus d3 isn't great out of shield (just nair really?)
+3:02 - just jump back in scrambles like this
+3:03 - run up and backflip to bait out the grounded stuff out option
+3:11 - he might not nair oos, but do a full hop. i think this is big fundamentals. gluto is ready to punish nair oos. and nair doesn't have a ton of landing lag (it might auto cancel if you do it really low)
+3:12 - space right outside fair range
+3:17 - bair is stupid fast in the air
+3:19 - bair being really fast again, really seems like he's using it to bait your defensive option then hit you with the next aerial
+3:25 - run up shield after the bair to catch the landing aerial
+3:45 - juice
 * Friendly Notes
 ** 5/27/2019 @ netplay
 things i noticed people doing:
