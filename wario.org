@@ -587,6 +587,15 @@ fh uair -> land on platform
 uptilt
 fh uair
 
+https://youtu.be/Zb69ohWsITs?t=207
+tweek vs samsora
+tweek lands a landing nair 1 at 0. just clips. he goes for the second nair,
+since you can do that sometimes (fair -> nair instead of fair -> grab for
+example). he hits the nair 2, then gets two quick sh uair. first one has a tiny
+delay, second one is buffered. but he gets TWENTY more percent off this combo --
+read the neutral air dodge by waiting and going for utilt, into fair, and then
+tacks on a dtilt for an extra little chip
+
 *** clips
 https://youtu.be/K0aAunaTD48?t=22
 chrom, ps2, 0%
@@ -1563,6 +1572,72 @@ if you can bait them to bair the hydrant as an anti approach, you can drift back
 empty land and slap. 
 
 use tomahawk uptilt as a way to get the waft. 
+** tweek vs samsora              [movement]
+https://www.youtube.com/watch?v=Zb69ohWsITs
+
+1:24 - quick backflip, then a run up dtilt
+
+1:29 - from the side platform, run off, then double jump instant dair. keep in
+mind this is against peach who is very floaty and aerial. he has time to land
+with a nair, too. 
+
+1:36 - dash back, then jump forward when you see they are at that medium
+range. it looks like he's just trying to take center or get out of the corner?
+
+1:40 - tweek gets a ton of mileage off of that platform. he'll either run off
+and then jump back on, or run off and fair. why do people approach him on that
+platform? what is he doing?
+
+1:44 - a little stutter step run up shield. i guess he can see sam coming in to
+take the space, and he knows sam wants to hit him. so just make samsora fuck up
+the aerial with the run up shield. but when he confirms it doesn't hit he goes
+into aerial mixup mode, it's just that sam doesn't get scared and shield. 
+
+2:50 - really nice corner play. he does a run up shield, but instead of trying
+to get an aerial out of shield (like i would) he uses the whiff to get an aerial
+mixup (which he converts into falling uair -> uthrow uair -> chip)
+
+3:42 - nice offensive corner work. dash out, then short hop in. the jump avoids
+the normal that peach throws out. but the jump in is just a bait to make peach
+do something aggressive, because tweek immediately jumps back and does a full
+drift in fair. 
+
+3:44 - when you fuck up corner pressure, just try to jump back over them. tweek
+gets back to center. 
+
+3:45 - after the short weird trade, tweek just jumps with kind of a weaving
+drift. 
+
+3:48 - tweek does a lot of that weave drift -> landing fair. 
+
+3:58 - when you don't know what to do in the corner, just full hop. 
+
+4:04 - dash out -> dash in -> shield -> full hop
+
+4:26 - just run in and overshoot with a full hop landing fair. that's an option
+you can do for overshooting. 
+
+4:59 - jump over them. you can catch rolls with drift fair or drift bite. or you
+can aerial mixup if they stay put. 
+
+5:15 - again. run up shield, then full hop. if they choose an aggressive option,
+you're hoping to catch it with run up shield. if they keep to their space or
+retreat, you can take space with the full hop -- maybe overshoot, or double jump
+back if they want to catch the approach, aerial mixup if they shield, etc. 
+
+6:07 - full hop forward, then jump back. 
+
+6:16 - the same approach as ^^, but samsora is wise to it and stuffs it out with
+a dair. looks like full hopping forward is one of tweek's main approach options?
+what do you do if they stuff it out with a preemptive attack? i mean, that's a
+pretty hard callout for them. 
+you can take space, because they can't hit you having used an early aerial like
+that. 
+you could double jump back early if you see their spacing is set up to punish
+the approach and catch them landing. 
+
+7:42 - brilliant sequence
+
 * Friendly Notes
 ** 5/27/2019 @ netplay
 things i noticed people doing:
@@ -1758,6 +1833,13 @@ ground (so pretty quick)
 https://youtu.be/gtX-O8Mdb_Y?t=337
 half, true, joker, 77%
 buffer fh, then read DI with dj and immediately waft
+
+https://youtu.be/Zb69ohWsITs?t=189
+half, true, peach, 40%
+neutral air dodged through peach's attack, uptilt, jump and waft. waft comes out
+fourth frame in the air. it's a half waft because it comes out quick. surprised
+half waft kills at that % but i think it was literally one second from becoming
+full waft
 * Combos
 running nair at center stage at 0. fast fall the nair early. slightly delay the
 first upair. buffer the second upair. full hop the third one, then fast fall
