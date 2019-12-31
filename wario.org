@@ -822,6 +822,53 @@ DI all of his combos out at high %. It can be a mixup to DI in.
 ** Mario
 - out of shield game is super strong, so don't try to go for falling upair
   really. 
+** Ness
+The basic Ness gameplan:
+Use fadeback fair to stuff out aerial approaches, and use PK Fire to stuff out
+grounded approaches. Both lead to good conversions. Use his aerials to make
+them afraid to jump -- the fadeback fair, place aerials to catch jump oos. Then,
+use PK Fire to beat them on the ground. Abuse nair oos. Go for cheesy PK Thunder
+and Yo-Yo edgeguards. 
+
+Ness loves to land with a PK Fire or aerial out of hitstun. If you nair out of
+shield and want to follow up, try run up shield. 
+
+Ness can do a rising aerial followed by a landing aerial. Don't react to the
+rising aerial at ledge by getting up. Also, the landing aerial is really fast,
+so if you get up attack too late he'll be able to shield. 
+
+Bait Ness by staying grounded at mid-range (dash dance, fadeback fair). Then,
+approach with a full hop once you think he'll be ready to PK Fire. 
+
+Ness wants to call you out for jumping out of shield.
+
+*** HOW TO APPROACH
+**** RUNNING FH
+Simply run at Ness with a full hop and land with a fair. 
+
+You want to use full hop because you want to be above Ness when approaching, or
+else you'll get stuffed out by a defensive aerial. 
+
+Mix in empty full hops with this, or else it'll be really reactable. 
+**** RUN UP SHIELD
+Ness wants to fadeback fair. Run up shield can force him to misspace that.  
+
+If you don't make him hit your shield, you can backflip or full hop forward and
+land with fair or bite. 
+
+It works well at a medium-long range, because you can take a lot of space. 
+**** BACKFLIP
+Functionally the same as run up shield -- Ness wants to call you out with a
+fadeback fair. Instead of making him space badly (like run up shield), backflip
+just makes him whiff and lets you land with a fair or a bite.
+
+The difference is that you can use this one at close range. 
+**** SLIDING FTILT
+This one isn't really Ness specific. Since Ness likes to retreat, overshoot with
+a sliding ftilt. 
+*** LEDGE OPTIONS
+Jump -> PK Fire
+Jump -> Instant uair
 ** Pac Man
 be very careful of fsmash into hydrant. it can do like 40. 0
 
@@ -1563,6 +1610,130 @@ if you can bait them to bair the hydrant as an anti approach, you can drift back
 empty land and slap. 
 
 use tomahawk uptilt as a way to get the waft. 
+** glutonny vs gackt             [ness]
+THINGS TO WATCH OUT FOR:
+What is Gackt going for? What are the moves he's using in neutral, and which
+ones are connecting? 
+The main things Gackt is going for:
+1. PK Fire. If you're chilling at the midrange and not forcing the issue, he'll
+   start using PK Fire. It's quick and unpunishable from that range. Also, it
+   leads into a ton. Pretty much 20 -> grab -> a couple aerials -- pretty likely
+   that you're taking 40 if you get hit with a PK Fire. 
+2. Fair. He does a lot of fadeback fair in neutral to stop wario from coming in
+   through the air. And he can get a lot if he connects a fair. 
+3. 
+
+What is Gluto going for? How does he move in neutral, and how does that movement
+work against Gackt's neutral options?
+How does Glutonny avoid Ness cheese? Yo-yo edge guard, PK Thunder, PK Fire
+
+0:11 - my man is just standing in the corner and spamming uair
+
+0:22 - calling out landings with fair. ness really likes to land with aerials,
+so it's a harder callout for him to aerial high and beat this fair
+
+0:27 - ness LOVES to use this rising fair
+> just make sure to DI hard out if you get hit by it
+0:30 - they spam spam spam spam nair oos
+
+0:31 - avoid the urge to jump in here. again, they love to do this fadeback fair
+to stuff out approaches
+
+0:36 - he's cool chilling on this platform for a little bit
+
+0:54 - intentional? get over him from the platform. bait the uair. you know he
+doesn't want to DJ to follow you, so he'll land after he whiffs the uair. land
+on him with something
+
+1:12 - quick dash dance just to see if the fair will come out, then run in with
+a fair. i think this works because gackt is shielding? so you know he can't run
+in to stuff it out
+
+1:20 - run up shield
+
+1:40 - he goes for the really low fair with like no horizontal momentum. also,
+watch how he just raw goes in to call out the dashing back sometimes
+
+1:48 - like other characters (thinking of yink/tink), ness can do the high
+aerial followed by low aerial
+
+2:58 - this is fraudulent and you should always get up attack it
+
+3:08 - little fadeback fair just to safely stuff them out if they want to come
+in
+
+3:09 - after the fadeback fair, a little dash back. to approach, he does a full
+hop (aka jumping over the fadeback fair range) and like reacts to the pk fire by
+coming with fair. you can see he does a little zig zag drift...
+
+> idea: ness prevents you from staying where you ARE with pk fire, and prevents
+you from coming to him with fair
+
+3:17 - ness wants to call out your jumps out of shield. he can do the double
+aerial thing here too.
+
+3:26 - cheesy ledge option
+
+3:28 - i like this full hop. don't give up too much space, just see what ness
+does. if he does an aerial where you're at, you can hit it. if he doesn't, it's
+ok
+
+3:29 - this is a good run up shield imo because it catches the specific ness
+option of rising aerial -> landing aerial
+
+3:37 - ness being lame and defensive. he just wants to catch you jumping out of
+shield so bad.
+
+3:38 - ness being lame and defensive. he just wants to catch you jumping out of
+shield so bad.
+
+4:05 - run up shield is an answer to fadeback fair. it makes them misspace it.
+
+4:14 - this is important to do. this is a feigned approach. he does the dash
+dance, then jumps in like he wants to approach. but he just full hops straight
+up. even if it does nothing else, it slows the opponent's reactions -- they
+can't react to that jump with an anti approach option.
+
+4:15 - another run up shield
+
+4:16 - don't react, just put the fair here.
+
+4:18 - instead of run up shield, run up backflip. that's an option that beats
+the fadeback fairs that works at a closer range.
+
+4:28 - he just air dodges back on to get away from offstage shenanigans
+
+4:51 - another run up backflip
+
+5:09 - mix in run up sliding ftilt
+
+5:12 - i can't believe that yoyo is safe like that
+
+5:14 - prefer to recover high
+
+5:17 - outranging with bair seems hard. bair is of course really good, but it
+feels like most of ness' stuff will beat the bair.
+
+5:39 - not sure why he doesn't go for the dair here
+
+5:41 - ledge option: jump instant uair
+
+5:56 - from disadvantage, just go high and fh/dj over him
+
+6:02 - feigned approach
+
+6:03 - instead of dashback, backflip and drift back in
+
+6:12 - good recovery
+
+6:18 - he really prefers to go high
+
+6:20 - run up shield, then just jump if it doesn't work out. if ness does one of
+those anti-approach fadeback fairs, you'll be above him and can probably punish
+
+6:22 - backflip -> landing fair
+
+6:30 - more run up shield
 * Friendly Notes
 ** 5/27/2019 @ netplay
 things i noticed people doing:
@@ -1758,7 +1929,12 @@ ground (so pretty quick)
 https://youtu.be/gtX-O8Mdb_Y?t=337
 half, true, joker, 77%
 buffer fh, then read DI with dj and immediately waft
-* Combos
+
+https://youtu.be/ILZkg09T4yo?t=392
+full,  true, ness, 22%
+he parries a high aerial on shield, then gets the juicy nair -> full waft. and
+it kills. from 22. 
+* Muscle Memory
 running nair at center stage at 0. fast fall the nair early. slightly delay the
 first upair. buffer the second upair. full hop the third one, then fast fall
 onto the platform. then buffer a dj upair (like you do for uthrow -> uair). 
@@ -1772,6 +1948,14 @@ uthrow -> uair. grab. stick up once to throw. up again for drift. buffer jump
 with x. react to di by tilting stick. press X and A at the same time to double
 jump upair. 
 up -> up -> x -> tilt stick -> x -> a
+
+short hop backflip
+full hop backflip
+immediate drift in
+fast fall
+land with fair
+drift in + fast fall 
+drift in + fast fall + land with fair
 * Unstructured Ideas
 https://youtu.be/RNvkMbnqF5M?t=267
 jumping above someone and nairing and crossing them up. catches them jumping out
