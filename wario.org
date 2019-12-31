@@ -587,6 +587,15 @@ fh uair -> land on platform
 uptilt
 fh uair
 
+https://youtu.be/Zb69ohWsITs?t=207
+tweek vs samsora
+tweek lands a landing nair 1 at 0. just clips. he goes for the second nair,
+since you can do that sometimes (fair -> nair instead of fair -> grab for
+example). he hits the nair 2, then gets two quick sh uair. first one has a tiny
+delay, second one is buffered. but he gets TWENTY more percent off this combo --
+read the neutral air dodge by waiting and going for utilt, into fair, and then
+tacks on a dtilt for an extra little chip
+
 *** clips
 https://youtu.be/K0aAunaTD48?t=22
 chrom, ps2, 0%
@@ -749,6 +758,7 @@ situation
  B-reverse bite
  Backward jump
 * Matchups
+** D3
 ** Greninja
 Greninja requires patience. He's quick enough and his aerials have little enough
 lag that he can space outside your range, box you out with aerials, and react to
@@ -1734,6 +1744,104 @@ those anti-approach fadeback fairs, you'll be above him and can probably punish
 6:22 - backflip -> landing fair
 
 6:30 - more run up shield
+** tweek vs samsora              [movement]
+https://www.youtube.com/watch?v=Zb69ohWsITs
+
+1:24 - quick backflip, then a run up dtilt
+
+1:29 - from the side platform, run off, then double jump instant dair. keep in
+mind this is against peach who is very floaty and aerial. he has time to land
+with a nair, too. 
+
+1:36 - dash back, then jump forward when you see they are at that medium
+range. it looks like he's just trying to take center or get out of the corner?
+
+1:40 - tweek gets a ton of mileage off of that platform. he'll either run off
+and then jump back on, or run off and fair. why do people approach him on that
+platform? what is he doing?
+
+1:44 - a little stutter step run up shield. i guess he can see sam coming in to
+take the space, and he knows sam wants to hit him. so just make samsora fuck up
+the aerial with the run up shield. but when he confirms it doesn't hit he goes
+into aerial mixup mode, it's just that sam doesn't get scared and shield. 
+
+2:50 - really nice corner play. he does a run up shield, but instead of trying
+to get an aerial out of shield (like i would) he uses the whiff to get an aerial
+mixup (which he converts into falling uair -> uthrow uair -> chip)
+
+3:42 - nice offensive corner work. dash out, then short hop in. the jump avoids
+the normal that peach throws out. but the jump in is just a bait to make peach
+do something aggressive, because tweek immediately jumps back and does a full
+drift in fair. 
+
+3:44 - when you fuck up corner pressure, just try to jump back over them. tweek
+gets back to center. 
+
+3:45 - after the short weird trade, tweek just jumps with kind of a weaving
+drift. 
+
+3:48 - tweek does a lot of that weave drift -> landing fair. 
+
+3:58 - when you don't know what to do in the corner, just full hop. 
+
+4:04 - dash out -> dash in -> shield -> full hop
+
+4:26 - just run in and overshoot with a full hop landing fair. that's an option
+you can do for overshooting. 
+
+4:59 - jump over them. you can catch rolls with drift fair or drift bite. or you
+can aerial mixup if they stay put. 
+
+5:15 - again. run up shield, then full hop. if they choose an aggressive option,
+you're hoping to catch it with run up shield. if they keep to their space or
+retreat, you can take space with the full hop -- maybe overshoot, or double jump
+back if they want to catch the approach, aerial mixup if they shield, etc. 
+
+6:07 - full hop forward, then jump back. 
+
+6:16 - the same approach as ^^, but samsora is wise to it and stuffs it out with
+a dair. looks like full hopping forward is one of tweek's main approach options?
+what do you do if they stuff it out with a preemptive attack? i mean, that's a
+pretty hard callout for them. 
+you can take space, because they can't hit you having used an early aerial like
+that. 
+you could double jump back early if you see their spacing is set up to punish
+the approach and catch them landing. 
+
+7:42 - brilliant sequence
+
+** Glutonny vs Zaki              [d3]
+https://www.youtube.com/watch?v=bw9-_1xhXww
+https://flowfeedback.com/feedback/8QCss3JMHKZg8wCZD
+
+0:31 - geki takes spaces, then does a fh into a gordo. i am guessing that he could threaten fair or something here too?
+0:32 - gluto backs off, drifts in as he sees the gordo, but then decides not to challenge d3 (i'm guessing that he could stuff him out with a tilt or something before wario could really hit him)
+0:33 - remember what corey said: full hop in the corner. zaki backs off, so gluto takes space
+0:36 - lots of full hops in neutral. he also does this full hop in with no intention to hit him just to see what he's gonna do.
+0:40 - gluto is fine being in the corner, he just full hops once he lands. you can see zaki jump to cover the air space this time, but gluto mixes in a dash dance.
+0:47 - why does gluto come down with a move here? i guess he thinks that zaki will try to call him out for being in the air? or just a random mix?
+0:52 - COMBO HIM HARD
+0:54 - tries to call out a jump but too slow, he's on the gas more here instead of camping. i guess because he doesn't want to get hit by gordo in response to his air camping?
+0:57 - bike is super good against gordo
+1:16 - that looks like button pressing...the bair into the dair into the dash attack. and he gets hit for it.
+1:36 - instead of drifting back here he goes in for the bite, and it calls out the gordo. but note how he has to go really high to avoid getting hit by the gordo.
+1:59 - d3 wants you to come in his space so he can hit you with one of those massive aerials
+2:03 - again, he jumps into the space wario wants to approach at, does a huge aerial high, and then lands with little lag
+2:04 - retreat and throw out a gordo after the aerial
+2:10 - another high, fast aerial -> dash back -> gordo
+2:20 - kill confirm: weak nair -> uair
+2:29 - more full hop (well, instant DJ but doesn't make a difference) to see what happens, you can smack the gordo out of the air with fair quite easily
+2:45 - he does another one of those high aerials
+2:50 - landing gordo is a mixup to the high aerial
+3:00 - call out jumps with fair at close range, plus d3 isn't great out of shield (just nair really?)
+3:02 - just jump back in scrambles like this
+3:03 - run up and backflip to bait out the grounded stuff out option
+3:11 - he might not nair oos, but do a full hop. i think this is big fundamentals. gluto is ready to punish nair oos. and nair doesn't have a ton of landing lag (it might auto cancel if you do it really low)
+3:12 - space right outside fair range
+3:17 - bair is stupid fast in the air
+3:19 - bair being really fast again, really seems like he's using it to bait your defensive option then hit you with the next aerial
+3:25 - run up shield after the bair to catch the landing aerial
+3:45 - juice
 * Friendly Notes
 ** 5/27/2019 @ netplay
 things i noticed people doing:
@@ -1934,6 +2042,13 @@ https://youtu.be/ILZkg09T4yo?t=392
 full,  true, ness, 22%
 he parries a high aerial on shield, then gets the juicy nair -> full waft. and
 it kills. from 22. 
+
+https://youtu.be/Zb69ohWsITs?t=189
+half, true, peach, 40%
+neutral air dodged through peach's attack, uptilt, jump and waft. waft comes out
+fourth frame in the air. it's a half waft because it comes out quick. surprised
+half waft kills at that % but i think it was literally one second from becoming
+full waft
 * Muscle Memory
 running nair at center stage at 0. fast fall the nair early. slightly delay the
 first upair. buffer the second upair. full hop the third one, then fast fall
