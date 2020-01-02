@@ -757,6 +757,10 @@ situation
 *** Tech Skill
  B-reverse bite
  Backward jump
+** Spawn Invincibility
+Shield on platform. They can't hit you. You can easily retreat to the other
+platform if they hit your shield, because you are Wario. It's really hard for
+them to grab you, because they have to land on the platform. 
 * Matchups
 ** D3
 ** Greninja
@@ -947,36 +951,38 @@ turnip. that would cover ledge hop probably, get up attack definitely. puts you
 in aforementioned mixup situation for neutral getup. peach is so fast that i bet
 it covers roll since she can just aerial or grab if spaced right. 
 ** R.O.B.
-ROB actually isn't great at stuffing out your midrange aerial approaches. 
+DO NOT PANIC JUMP OFFSTAGE. Rob really wants to read it with a side b, and you
+will die very early. 
+
+If he's low on fuel, just go for the dair offstage. If you can bait out an uair
+under the stage, he'll likely go straight to ledge after and you can dair that.
+
+Abuse the hell out of neutral B. 
 
 Gyro stuffs ground approaches. Laser stuffs aerial approaches. Lasers are
 reactable, and gyro is kind of reactable, and definitely safely readable. If
 you're getting punished for approaching one way, adjust. Or, approach that way
 when one of those options isn't in play. 
 
-Bite is really really good. Because nair has a ton of startup, bite can catch
-full hop nair really well. You can jump in and bite as he throws a projectile
-and it's not a good situation for him -- he basically has to read it and roll. 
+You can double jump over laser if you read that he's going to do it in neutral. 
 
-Run up and jump back to bait out the gyro and put yourself in an approaching
-position. That's how you set up aerial mixup situations. 
-
-He's surprisingly easy to edge guard. Go out there. A lot. Watch out for when
-they react to you going out their by defensively using uair. 
-
-WAFT. CAMP. Don't do pure lame circle camping, but if it starts getting dicey
-it's a great idea to be non-interactive for 20 seconds. 
-
-Go for gyro parries. 
-
-At mid to close range, you can approach with a short hop. Or in scramble
-situations. His dtilt is really good, and it's by far his fastest and best
-normal. But you can pretty easily short hop over it. 
+When you're pressuring his shield or in his face, watch out for nair. It's slow,
+but if you're just floating above him trying to get a landing aerial, you will
+get hit. 
 
 After he lands on your shield, don't (usually) empty full hop. A lot of the
 time, if they safely nair on your shield, they're gonna jump up again. You can
 smack that out of the air, because nair has a lot of startup, but if you just
 empty full hop to see what they do, you're going to get hit. 
+
+Run up and jump back to bait out the gyro and put yourself in an approaching
+position. That's how you set up aerial mixup situations. 
+
+WAFT. CAMP. Don't do pure lame circle camping, but if it starts getting dicey
+it's a great idea to be non-interactive for a bit.
+
+Parrying his projectiles isn't really that great, because you don't have enough
+frame advantage to make anything meaningful happen. 
 *** OOS
 Once you're in, push advantage. He's only got a few options out of shield:
 Standard options (roll, spot dodge, jump)
@@ -1974,7 +1980,143 @@ low nair -> dash attack
 
 TECH CHASE NOTES
 scout out the missed tech, it's a free dash attack
-* Every Waft I've Ever Seen
+** 12/30/2019 @ 4o4
+It wasn't a bad day. I showed up, and I immediately played ZICO in friendlies
+for a few hours. I got to test out my theories on D3. A lot of it was good. He
+did a lot of things different from Zaki. For one, he used a lot more gordo. When
+I caught onto this and started fairing the gordo, it helped a lot. I didn't have
+to go in to hit it. I could do a fadeback fair more or less and hit it back to
+him, and that caused him a lot of problems. 
+
+He also did inhale, which I didn't see Zaki do at all. Where Zaki would mix in
+landing gordo in neutral, Zico would mix in landing inhale. 
+
+Zico fished really hard for weak nair kill confirms at high percents. 
+
+He also did the thing where you do a strong attack with little lag and then
+immediately follow it up with a quick attack. For example, upsmash -> dash attack. 
+
+My nair edgeguarded him so well. It covers so many of D3's options. 
+
+You really have to watch for ledge hop fair (at least, I think it was fair --
+coulda been nair), because it goes through moves. 
+
+He did a lot of the high aerial thing too. I honestly don't remember how I dealt
+with it. A little fried right now. 
+
+After that, I played a little Melee with Omega, Zico, and Stain. Then I played a
+couple hours of friendlies with Eden. 
+
+I find it hard to play against Rob because he has so many options in
+neutral. Off the top of my head:
+Empty hop back
+Short hop back gyro
+Charge gyro
+Big laser up
+Small laser
+Full hop nair
+Down tilt
+
+And of course more mixes of empty hopping and doing other stuff. How the hell am
+I supposed to meaningfully predict what he's gonna do in neutral? He doesn't
+mind being close to me, and he has several options far away from me. 
+
+One thing I realized today is that people will never hit you by throwing out
+defensive aerials. Defensive aerials only win against two things:
+They systematically win against dumb, obvious aggression 
+They situationally win against smart aggression. 
+
+So if you're doing the same approach option every time, a defensive aerial put
+in that place will hit you. If you are properly mixing up your approaches,
+baiting defensive options, etc, then the opponent has to make a read with their
+defensive aerial. 
+
+I got hit with a ton of Rob defensive nair. I can't get the image out of my
+head. I jump in and drift back to see what Eden does, but he knopws that I want
+to be there, and he puts a nair there and I eat it. And of course a few
+projectiles after. That's one of my worst neutral things that I do, I think. I
+just hover in the air waiting for the opponent to do something. Now I do see
+good players do that to an extent. Like glutonny vs the ness, he full hops in
+and does that weird little weave drift to kinda see what will happen. But he did
+that once in a set. I feel like that's my go to neutral option. I feel like I
+have several neutral options but I don't know quite when or how to use them. Or
+how to bait things out. I know how to bait in some circumstances, but I don't
+know how to bait in neutral. I guess it's another thing of knowing exactly what
+the other person wants. I know the things that Rob COULD want, but I don't know
+how to pare that down to a few likely options and then make a play that does
+well against those. It feels like there is no drawback to him, for example,
+using gyro in neutral, or using laser in neutral. How am I supposed to make him
+feel pressured to choose one? And if I do, how am I supposed to take advantage
+of that? For example, if Rob wants to laser, what position do I need to be in to
+take advantage of that? 
+
+Another thing I have realized for a while but felt acutely is that I use shield
+too much. Punishing out of shield should be the exception -- do it as a bait
+seldomly, and use it when your opponent messes up. But don't rely on it, because
+your opponent will just stop falling for it and then you are stuck in
+shield. And good opponents will stop falling for it VERY quickly. 
+** 1/1/2020 @ solo
+he played his joker. I got beaten pretty bad for a few games, then I won like 6
+in a row. Because I figured it out. I realized how he wanted to approach, and it
+was really telegraphed. He'd jump in, maybe do a high aerial, maybe land with an
+aerial, but then he'd be in the same space every time when he landed. So I could
+just go in the space that makes him want to approach, then retreat and hit him
+with a grab, ftilt, shield nair, whatever. 
+
+He said that I tech in place too much. 
+
+Joker really wants to tech chase you and keep combos going. He can turn a stray
+hit into 40 pretty easily. You have to mix up your techs, and you have to mix up
+your options after you tech. Don't shield every time. Spot dodge, nair, jump,
+roll, just mix in different things. Make it hard for him. And try to get a bead
+on what Joker's actually going for in these situations, I bet it's really like
+five or less situations that Joker is consistently setting up.
+
+I was talking just a little with Corey earlier about Smash. I described to him
+the situation of Lucina doing fadeback fair, and how hard it is to get in on
+that. He said two things:
+One, you need to play closer. If it's hard to deal with, play at a spacing that
+Lucina can't do it. If she does it, you're in a position to actually punish
+it. If she doesn't, problem solved. Option removed. 
+Second, he was talking about reacting to things in neutral. Lucina's fair has a
+good amount of startup, so you can react to the jump and go hit her. Of course,
+preceding this is #1 (be close enough to punish it)
+
+I felt like I understood this when I was playing SOLO. I didn't have to read his
+approaches, I just stayed at the correct spacing and reacted to the fact that he
+was jumping by retreating past the spot he wanted to attack and punishing his
+whiff. Of course, if he was better he'd start mixing it up by doing empty lands
+or something else to take advantage of the fact that I've just given up
+space. But the point I'm really getting at is that's how I beat him in
+neutral. 
+
+Another thing is how I get in. I'm learning what it means for me to be in
+certain aerial spaces. For example, if we're both at about platform spacing in
+neutral, and I jump over center. My drift is so good that I can react to a lot
+of things. I could come in, but I don't have to. Most other characters, when
+they jump at you, they're going to attack you. They have to. I don't. I could
+drift in and fair you, or bite you, or uair you. I could also drift back and
+reset. Or I could land in center and take space (like if you retreat). But the
+point is that I'm forcing you to do something. If I'm coming at you in the air
+like that, you have to make a decision. And my hope is to understand what your
+decision will be and punish it. That's a good way to think about neutral, I
+think. 
+
+Thinking about it more, there is so much more to it. That feels right against
+Joker, but not really against someone like Squirtle. It feels right against
+Joker, Lucina, ZSS, some others. 
+
+I also realize how much I get caught landing. 
+
+Something from the Gluto video: Don't corner yourself. If someone is pressuring
+your shield on a platform, reset to neutral in center or try the other
+platform. Don't go to the corner. 
+
+Your goal in disadvantage is to reset to neutral. Not to hit them. It's to reset
+to neutral. 
+
+Don't play the RPS at the start screen. 
+* Every Waft I'v Ever Seen
 https://youtu.be/iy_MZIRVsC4?t=219
 full, true, greninja, 40%
 catch them in the air with fair. buffer uptilt. jump and get the waft, it looks
@@ -2056,7 +2198,7 @@ onto the platform. then buffer a dj upair (like you do for uthrow -> uair).
 
 falling upair at 35% next to a platform. delay the next one as long as you
 can. full hop, uair, fast fall onto the platform. buffer full hop with X, double
-jump in the right direction with the stick, and mash waft as soon as the DJ
+jump in the right direction with the stick, mash waft as soon as the DJ
 comes out. 
 
 uthrow -> uair. grab. stick up once to throw. up again for drift. buffer jump
