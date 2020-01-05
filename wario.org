@@ -884,6 +884,15 @@ a sliding ftilt.
 Jump -> PK Fire
 Jump -> Instant uair
 ** Pac Man
+PAC CAN'T KILL. don't panic if he gets a % lead -- being impatient will just
+make it worse, and it's really not that bad since he can't kill w/o a random
+smash until ~160
+
+do NOT fuck with galaga. don't fuck with it at the ledge especially. 
+
+his ledge hop fair is really strong. sometimes it beats out my fh nair even if i
+feel like i preempt it. 
+
 be very careful of fsmash into hydrant. it can do like 40. 0
 
 when pac runs behind his hydrant and is actionable, there's a wall of space that
@@ -2116,6 +2125,26 @@ Your goal in disadvantage is to reset to neutral. Not to hit them. It's to reset
 to neutral. 
 
 Don't play the RPS at the start screen. 
+** 1/4/2020 @ honey
+how do i deal with bell? feels like he can take a lot of space with it. 
+
+Honey played a different kind of Pac than what I saw in my videos. He didn't
+really use hydrant -> fruit cycle in neutral that much. A lot of his hydrants
+were just get out of jail free cards that I was not in a position to punish. For
+example, if I get a nair combo he can hydrant after the 2nd/3rd upair, and since
+I'm in the air I have to land before I can jump after him. 
+
+I did a lot better once I started using bite, but I don't think I ever got to
+the point where I conditioned him not to shield. 
+
+One thing I tried a lot was mixing up empty fh backflips with jumping in with a
+fh. The problem was that he wasn't responding to it. He just stayed in the
+corner and fruit cycled. I think it was a good play, but I need to be conscious
+of why I'm doing it. I'm doing it to bait out the fruit or an aerial. If he's
+not doing those, I should punish him for fruit cycling. 
+
+I got hit with a lot of random shit. Fruit lingers just a bit too long, key from
+offstage. 
 * Every Waft I'v Ever Seen
 https://youtu.be/iy_MZIRVsC4?t=219
 full, true, greninja, 40%
