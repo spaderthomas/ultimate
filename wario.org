@@ -2220,6 +2220,10 @@ neutral air dodged through peach's attack, uptilt, jump and waft. waft comes out
 fourth frame in the air. it's a half waft because it comes out quick. surprised
 half waft kills at that % but i think it was literally one second from becoming
 full waft
+
+https://youtu.be/l5xE-okCf0w?t=184
+full, true, inkling, 73%
+normal uptilt after a missed dair confirm. start the waft on frame 5 of jump.
 * Muscle Memory
 running nair at center stage at 0. fast fall the nair early. slightly delay the
 first upair. buffer the second upair. full hop the third one, then fast fall
@@ -2239,9 +2243,40 @@ short hop backflip
 full hop backflip
 immediate drift in
 fast fall
-land with fair
 drift in + fast fall 
 drift in + fast fall + land with fair
+dtilt -> spot dodge
+sh backflip -> jump forward -> ff fair
+sh backflip -> jump forward -> drift back -> ff
+get bike for ledgetrap
+
+** Shadowboxing
+https://youtu.be/l5xE-okCf0w?t=4
+sh ff claps on the platform. occasionally fall through the platform with a
+landing fair.
+
+https://youtu.be/l5xE-okCf0w?t=49
+run up -> full hop in -> drift back
+
+https://youtu.be/l5xE-okCf0w?t=130
+camping the corner
+dash back -> dash in -> empty fh
+dash back -> run up shield
+dash back -> dash in -> fadeback nair
+fh in -> fade back
+fh in -> landing fair
+
+dash in -> backflip
+dash back -> scuttle turnaround -> dtile
+dash in -> fh -> fadeback
+run up shield -> jump back
+fh in -> wavedash back on platform
+
+https://youtu.be/l5xE-okCf0w?t=389
+camping the corner
+empty full hops -> dj in
+https://youtu.be/l5xE-okCf0w?t=340
+when you think they'll shield, jump in -> fadeback -> empty land -> dtilt
 * Unstructured Ideas
 https://youtu.be/RNvkMbnqF5M?t=267
 jumping above someone and nairing and crossing them up. catches them jumping out
@@ -2338,3 +2373,66 @@ Pretty much what it says on the tin.
 - [ ] Focus on fast falling your fairs
 
 - [ ] Go for the aerial mixup instead of buffering a SH nair or uptilt on their shield
+* Reflex
+** 1/14/20
+sweet spot utilt doesn't combo at mad low percents, try nair instead. don't try
+it until 10, 15%, maybe a little higher
+at low percents, they are probably afraid of getting naired on their shield, so
+they are more likely to hold shield
+just roll away! especially if you're on their shield. 
+
+when people are punishing landings, they stay a specific distance away from you
+
+the basic mixup between fast fall neutral airdodge and regular fall neutral
+airdodge. if you are getting away with ff na safely, land with an aerial. 
+
+if someone messes up as you are juggling, take space. if they are moving away,
+or if they've already picked an aerial, take the space. 
+
+you can change the direction you jump off the bike by tilting it in midair. the
+three ones:
+don't tilt, up and forward
+tilt back, straight up
+tilt forward, straight forward
+
+if you're gonna go high, go high enough so you can do your bread and butter
+mixup
+
+upthrow on battlefield platform. shark with upair. or just get on that platform
+(nair -> ff maybe) and then cover their roll. 
+
+playing passively, making it look like ur trying to be scary -- just getting in
+their space can force them to dj
+
+tend to prefer throws with more damage. downthrow in the corner is usually
+better than backthrow at the ledge. 
+
+wario prefers to come from above because of his drift
+
+dash back sh bair, covers similar distance
+
+1:37 sh back, fair (bait it instead of reading it). put the options you don't
+think they will do out of your mind, and focus on covering or baiting the ones
+that you think they will. 
+
+a lot of movement is to make them feel like they have to press a button. 
+run up shield
+ac rar backair, well spaced on shield
+dtilt (fast and safe, but not super rewarding)
+
+bair (bigger hitbox, stronger) vs fair (fast, lingering)
+
+spot dodge canceling (spot dodge dtilt or ftilt), you can't grab dtilt spot
+dodge, so see how they react to dtilt earlier and then adjust
+
+using run up shield to see how much they respect you or how cautious they are
+playing
+
+1:51 nair, not much you can punish with. err on the side of caution if you dont
+know if something will hit
+
+make the proactive reads like covering the dj when they are offstage 
+
+marcina up b in the air is invincible frame one
+
+most of  your approaches should be with short hop
