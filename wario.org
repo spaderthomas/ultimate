@@ -2145,7 +2145,7 @@ not doing those, I should punish him for fruit cycling.
 
 I got hit with a lot of random shit. Fruit lingers just a bit too long, key from
 offstage. 
-* Every Waft I've Ever Seen
+* Every Waft I've` Ever Seen
 https://youtu.be/iy_MZIRVsC4?t=219
 full, true, greninja, 40%
 catch them in the air with fair. buffer uptilt. jump and get the waft, it looks
@@ -2224,36 +2224,35 @@ full waft
 https://youtu.be/l5xE-okCf0w?t=184
 full, true, inkling, 73%
 normal uptilt after a missed dair confirm. start the waft on frame 5 of jump.
-* Muscle Memory
-running nair at center stage at 0. fast fall the nair early. slightly delay the
-first upair. buffer the second upair. full hop the third one, then fast fall
-onto the platform. then buffer a dj upair (like you do for uthrow -> uair). 
+* Drills
+** Tech
+uthrow -> uair
+utilt -> full waft
+utilt -> dj + di -> half waft
+uair -> dj + di -> half waft
+sliding ftilt
+scuttle turnaround normals
+get bike for ledgetrap
+dtilt -> spot dodge
+dtilt -> spot dodge -> waft
+ftilt -> spot dodge 
 
-falling upair at 35% next to a platform. delay the next one as long as you
-can. full hop, uair, fast fall onto the platform. buffer full hop with X, double
-jump in the right direction with the stick, mash waft as soon as the DJ
-comes out. 
-
-uthrow -> uair. grab. stick up once to throw. up again for drift. buffer jump
-with x. react to di by tilting stick. press X and A at the same time to double
-jump upair. 
-up -> up -> x -> tilt stick -> x -> a
-
+** Movement
 short hop backflip
 full hop backflip
-immediate drift in
-fast fall
-drift in + fast fall 
-drift in + fast fall + land with fair
-dtilt -> spot dodge
+backflip -> drift in -> ff -> fair
+
 sh backflip -> jump forward -> ff fair
 sh backflip -> jump forward -> drift back -> ff
-get bike for ledgetrap
+
+fh fadeback fair -> landing nair
+fh fadeback fair -> dash dance -> nair
+
+run up shield -> instant jump back
 
 ** Shadowboxing
 https://youtu.be/l5xE-okCf0w?t=4
-sh ff claps on the platform. occasionally fall through the platform with a
-landing fair.
+sh ff clap -> sh fallthrough fair -> fh ff clap
 
 https://youtu.be/l5xE-okCf0w?t=49
 run up -> full hop in -> drift back
@@ -2263,20 +2262,44 @@ camping the corner
 dash back -> dash in -> empty fh
 dash back -> run up shield
 dash back -> dash in -> fadeback nair
-fh in -> fade back
-fh in -> landing fair
 
 dash in -> backflip
-dash back -> scuttle turnaround -> dtile
-dash in -> fh -> fadeback
-run up shield -> jump back
-fh in -> wavedash back on platform
+dash back -> scuttle turnaround -> dtilt
+
+dash in -> backflip -> double jump -> landing aerial
 
 https://youtu.be/l5xE-okCf0w?t=389
 camping the corner
 empty full hops -> dj in
+
 https://youtu.be/l5xE-okCf0w?t=340
 when you think they'll shield, jump in -> fadeback -> empty land -> dtilt
+
+*** Full Hop
+fh in -> fade back
+safe, just to see what they will do. you can spam it a few times to bait them
+into swatting you out of the air or hitting your landing.
+
+fh in -> landing fair/nair
+approach option. characters with bad oos, nair is -4 on shield, you can do shit
+there. projectile characters, you can catch em shooting. can catch people
+jumping in on you or dash dancing. 
+
+fh in -> high fadeback fair
+safely stuff people out who might approach aerially.
+
+fh in -> high fadeback fair -> empty hop -> run under -> utilt
+if they catch on and want to swat you, bait their reaction with the empty hop
+and then get under them.
+
+fh in -> high fadeback fair -> empty hop -> dash back 
+if they catch on and want to punish your landing, bait their reaction and then
+dash back past their whiff punish 
+
+fh in -> fake fadeback fair -> landing nair
+less committal approach. if they drop shield when they see the fair predicting
+fadeback. 
+
 * Unstructured Ideas
 https://youtu.be/RNvkMbnqF5M?t=267
 jumping above someone and nairing and crossing them up. catches them jumping out
@@ -2347,8 +2370,39 @@ Roll and reset situation
 - [ ] Do not immediately go on platform after you lose a stock. Do not
   immediately run towards them.
 * NEXT BRACKET ACTION ITEMS
-- [ ] Practice waft confirms (uptilt full, falling uair dj half, platform half)
-- [ ] React to DI instead of try to read it on uthrow->uair.
+Practice utilt -> waft
+React to DI instead of try to read it on uthrow->uair.
+
+go for more aerial mixups out of shield
+
+bait your nair at ledge with empty hop
+
+EVERY person you play remember at least one thing they were going for in
+neutral.
+
+FULL HOP STUFF
+what do they do when i full hop at them?
+when i get hit out of it, why?
+how are they adapting? are they shielding? are they trying to whiff punish? are
+they trying to swat? are they dashing back?
+
+CORNER STUFF
+try em all out. remember that the ultimate goal is to take space.
+
+are they trying to hit you in the corner?
+are they trying to bait you to hit them with movement?
+are they trying to stuff you out in the corner?
+are they afraid of getting hit?
+when can i dj over them?
+when can i run past them?
+
+CONTROLLER STUFF
+keep your index finger on the trigger at all times
+
+
+
+* CLOSED ACTION ITEMS
+- [ ] Be completely conscious of when you are using aerial out of shield
 
 - [ ] Do not jump forward without intent
 - [ ] Do not dash back instinctively on landing
@@ -2357,8 +2411,6 @@ Roll and reset situation
 - [ ] fh nair at ledge, then drift back to roll distance. React to their
   roll. Do an empty hop and then do the nair, too. 
 
-- [ ] Be completely conscious of when you are using aerial out of shield
-* CLOSED ACTION ITEMS
 - [ ] Use late dash attack, and get a feel for how true it is. 
 - [ ] Use your tech chase flowchart and evaluate its effectiveness.
 summary: It works, and it's really good! The timing is pretty easy to get
