@@ -1,4 +1,4 @@
-* 4/6/2019 [Young Link] [Battlefield]
+* 4/6/2019   [YNK] [BFD]
 *** me vs netplay young link, 6/2/2019
 situation: opponent is in the air near the ledge, you're just under the side
 platform. what can they do?
@@ -73,7 +73,7 @@ even if they do they probably have invincibility
 -> yl ledge 2: ledge hop nair
 00:19:08: he likes to land aggressively. he shields after landing
 
-* 9/25/2019 [Pikachu]   [PS2]
+* 9/25/2019  [PKC] [PS2]
 - 00:06:10 he falls on me with the nair. i know that move barely has any
   lag. but i want to get the hit really bad, so i nair out of shield. of course
   it doesn't hit, pikachu is small. he just up-tilts me and starts a combo. 
@@ -164,7 +164,7 @@ EXPLORE: what do they do when i'm holding center in the air?
   could run up shield grab
 - 5:16 could i use this? he know i wants to bair him, so he jumps in the range
   and jumps back out to bait it. 
-* 11/10/2019 [Terry]    [PS2 / Town]
+* 11/10/2019 [TER] [PS2]
 0:10: why do i run in and nair here? think about what he can do at that spacing:
 - he could retreat, because he's not in range for any of his attacks
 - he can run up defensively -- run up shield, or run up and short hop back
@@ -256,7 +256,7 @@ he will adapt.
 1:40: here would be a good place to go for a bite. 
 
 1:57: do fair grab 
-* 11/13/2019 [Ike]      [PS2]
+* 11/13/2019 [IKE] [PS2]
 ** initial impressions
 initial impressions
 jumping back at that spacing will make him want to jump in so drift forward fair
@@ -377,8 +377,7 @@ fair->dtilt->fair.
 
 
 
-
-* 11/18/2019 [Chrom]    [PS2]
+* 11/18/2019 [CHR] [PS2]
 0:04: i see him do this approach a lot. run up, stop, then run in with a nair. i
 bet that i could react to the stop with...fair for sure, but something better?
 maybe a pivot grab...? would dash in nair work?
@@ -479,7 +478,7 @@ special few occasions, but it should absolutely be a rare mixup.
 1:50: running off the platform with a quick *defensive* aerial is good because
 it covers them trying to run under to get center, which is a common way to get
 out of the corner. 
-* 11/26/2019 [Roy]      [Battlefield]
+* 11/26/2019 [ROY] [BFD]
 ** analysis
 0:02 her fair is spaced well enough that you can't get nair out of shield (in
 general this will be the case against swords). but that fair isn't really safe
@@ -634,7 +633,7 @@ shield. do not instinctively uptilt after landing something unsafe.
 be more intentional with your dashbacks. always remember that dashing back
 allows them to take space, and if they show that option often then dashing back
 is not a great thing to do. dashing back allows you to react to them 
-* 1/20/2020  [Ike]      [PS2]
+* 1/20/2020  [IKE] [PS2]
 couple things that stick out
 
 when you jump at him he likes to shield. do more uair shield pressure in
@@ -694,7 +693,7 @@ are they doing empty hops?
 are they holding shield? are they doing run up shield? 
 are they doing defensive aerials? 
 are they full hopping over you?
-* 12/10/2019 [Chrom]    [Smashville]
+* 12/10/2019 [CHR] [SVL]
 0:02 no mindless nairs at really far spacing
 
 0:05 that nair on shield is not good...coming right out of the jab either you're
@@ -797,3 +796,7 @@ execute your reads. if you are going to read something, commit to it and execute
 the punish (e.g. reading tech in).
 
 upthrow upair leads to sharking situations. what are their options?
+* 2/7/2020   [CLD] [PS2]
+3:35
+
+my movement is dash dance heavy and not purposeful
