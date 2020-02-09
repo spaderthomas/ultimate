@@ -2348,7 +2348,7 @@ cant really get the counterhit
 
 ** lancelot
 -learn to read the flow of the match and pressure your opponent when he starts
-being defensive and respects you so that¡¯s why play safe to observe!(never only
+being defensive and respects you so thatï¿½ï¿½s why play safe to observe!(never only
 play play defensive or only offensive)
 
 * ACTION ITEMS
@@ -2360,7 +2360,7 @@ play play defensive or only offensive)
 - [ ] Resist the urge to use uptilt on shield
 
 ** CORNER PRESSURE
-- [ ] Use dash back options to keep the opponent in the corner.
+- [ ] Use dash back to keep the opponent in the corner.
 - [ ] Use run up shield to keep the opponent in the corner.
 - [ ] Use Bite to keep the opponent in the corner. 
 - [ ] Use double jump + float to keep the opponent in the corner.

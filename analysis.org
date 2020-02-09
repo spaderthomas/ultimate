@@ -73,7 +73,7 @@ even if they do they probably have invincibility
 -> yl ledge 2: ledge hop nair
 00:19:08: he likes to land aggressively. he shields after landing
 
-* 9/25/2019 [Pikachu] [PS2]
+* 9/25/2019 [Pikachu]   [PS2]
 - 00:06:10 he falls on me with the nair. i know that move barely has any
   lag. but i want to get the hit really bad, so i nair out of shield. of course
   it doesn't hit, pikachu is small. he just up-tilts me and starts a combo. 
@@ -164,7 +164,7 @@ EXPLORE: what do they do when i'm holding center in the air?
   could run up shield grab
 - 5:16 could i use this? he know i wants to bair him, so he jumps in the range
   and jumps back out to bait it. 
-* 11/10/2019 [Terry] [PS2 / Town]
+* 11/10/2019 [Terry]    [PS2 / Town]
 0:10: why do i run in and nair here? think about what he can do at that spacing:
 - he could retreat, because he's not in range for any of his attacks
 - he can run up defensively -- run up shield, or run up and short hop back
@@ -256,7 +256,7 @@ he will adapt.
 1:40: here would be a good place to go for a bite. 
 
 1:57: do fair grab 
-* 11/13/2019 [Ike] [PS2]
+* 11/13/2019 [Ike]      [PS2]
 ** initial impressions
 initial impressions
 jumping back at that spacing will make him want to jump in so drift forward fair
@@ -378,8 +378,7 @@ fair->dtilt->fair.
 
 
 
-
-* 11/18/2019 [Chrom] [PS2]
+* 11/18/2019 [Chrom]    [PS2]
 0:04: i see him do this approach a lot. run up, stop, then run in with a nair. i
 bet that i could react to the stop with...fair for sure, but something better?
 maybe a pivot grab...? would dash in nair work?
@@ -480,7 +479,7 @@ special few occasions, but it should absolutely be a rare mixup.
 1:50: running off the platform with a quick *defensive* aerial is good because
 it covers them trying to run under to get center, which is a common way to get
 out of the corner. 
-* 11/26/2019 [Roy] [Battlefield]
+* 11/26/2019 [Roy]      [Battlefield]
 ** analysis
 0:02 her fair is spaced well enough that you can't get nair out of shield (in
 general this will be the case against swords). but that fair isn't really safe
@@ -635,7 +634,67 @@ shield. do not instinctively uptilt after landing something unsafe.
 be more intentional with your dashbacks. always remember that dashing back
 allows them to take space, and if they show that option often then dashing back
 is not a great thing to do. dashing back allows you to react to them 
-* 12/10/2019 [Chrom] [Smashville]
+* 1/20/2020  [Ike]      [PS2]
+couple things that stick out
+
+when you jump at him he likes to shield. do more uair shield pressure in
+general. all he has oos is up b. his aerials come out slow as hell.
+
+when he lands with something unsafe he likes to shield. when he lands with a
+nair that LOOKS unsafe he likes to utilt or dtilt after. 
+
+after he does a tilt he likes to shield
+
+
+if you run at him when he's in the air he'll probably react and throw out his
+hitbox. don't try to punish oos, just try to outspace. if you stay right outside
+the sword range you can punish with dash nair
+
+he loves to jump oos especially out of the ledge.
+
+when you're fake jumping in with empty hops, dashing back, etc, after a couple
+times they'll throw out a zone break move. overshoot nair, dash attack, run up
+grab, etc.
+
+find out what people react to at ledge and then fake it. solo loves to jump or
+shield then jump to get off ledge/out of the corner. nair hits that, but he just
+waits for the nair to end and then jumps. do an empty hop and then like fh ac
+bair. or just do fh nair. 
+
+when you're under ike, don't want for him to land. nair is huge and safe and
+hits all the way under him. try to clap him. DON'T WAIT FOR HIM TO LAND. HIT HIM
+OUT OF THE AIR. nair takes a while to start up...
+
+go for less aerial out of shield. you need to be actually looking at what they
+do after they land something.
+
+
+stop holding forward in disadvantage. if you get hit by ledge just go to ledge. 
+
+one more idea: do the cat approach. full hop at them and react to what they do
+next (or do a half reaction based on what they have done).
+if they jump at you, throw out a fair. 
+if they retreat, empty land. 
+if they shield, bite or tomahawk
+if they run under you, dj and reset.
+you can also cross up fair or nair 1
+
+then mix up your timings with when you do this. do some fh fadeback/empty lands
+so it's not obvious when you're actually going to go in. 
+if you see them pre-empting you and smacking you out of the air, do more
+fadebacks. bait it.
+if you catch them dashing back and hitting your landing, just take space or
+overshoot. 
+
+
+noticing what people are doing. in common situations. some big ones you care
+about:
+in the corner. 
+are they doing empty hops? 
+are they holding shield? are they doing run up shield? 
+are they doing defensive aerials? 
+are they full hopping over you?
+* 12/10/2019 [Chrom]    [Smashville]
 0:02 no mindless nairs at really far spacing
 
 0:05 that nair on shield is not good...coming right out of the jab either you're
