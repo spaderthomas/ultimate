@@ -375,8 +375,6 @@ him to expect that read now when the payoff isn't big
 00:41: High fair gives him time to shield. You always do the same pattern of
 fair->dtilt->fair. 
 
-
-
 * 11/18/2019 [CHR] [PS2]
 0:04: i see him do this approach a lot. run up, stop, then run in with a nair. i
 bet that i could react to the stop with...fair for sure, but something better?
@@ -800,3 +798,128 @@ upthrow upair leads to sharking situations. what are their options?
 3:35
 
 my movement is dash dance heavy and not purposeful
+
+0:06: Just be more patient here. He put himself into the corner. There's no need
+to approach with that raw nair. It's especially bad because he showed that he
+wants to jump around and space with aerials -- when you whiff that nair, he's in
+a perfect spot to hit you with an aerial (which is also a combo starter and you
+take 40 for it).  What you should do instead:
+
+Jump around right outside his aerial range, so you're ready to stick out a fair
+if he does a full hop -> landing aerial. If he lands and shields, you can
+bite. You can also just hang back in case he panics and rolls or tries to run up
+and shield, since those will be reactable.
+
+Empty hop and shield if you think he will zone break with a dash attack. 
+
+0:16: Gotta hit that punish. Even though nair is weird, you started with your
+back to him, so I think that one would have worked if you didn't fast fall.
+
+0:20: Good baiting him out of shield with the empty hop. Now you need to note
+that he's mashing up-b out of shield. I am pretty sure that the up-b was
+reactable though -- it was 22 frames between when he dropped shield and when I
+clicked bite. Not sure why I did that.
+
+0:25: Good calling him out here because it's clear that he wants to pressure you
+with these safe, low aerials. Can I do something better than a fair here? It
+doesn't lead to anything.
+
+0:27: Need to be quicker if I think he will shield. Like, short hop and fast
+fall if I want to bite. He has shown that he wants to do early up-b OOS to keep
+be off his shield with bite.
+
+0:36: Thought he would keep retreating.
+
+0:39: Stop holding in when you get hit, and stop mashing an aerial. Cloud has a
+long sword. You have a foot. It's not gonna work. That should be a sparse mixup.
+
+0:48: Not sure why I would come down on his shield like that when he's really
+committed to using up-b. Even though he didn't do it here, everything that's
+happened in the game so far says it is not a good idea.
+
+0:52: I force him to air dodge with the jump, but I don't do anything with
+it. Be more aware of the "aerial vs empty hop" and "aerial vs air dodge" that
+goes on in this situation. If you do the empty hop and win the 50/50, you have
+to collect your prize.
+
+1:06: Don't let him hang on the ledge after that up-b. Even though hitting that
+with a slap every time means he'll just start rolling, like Reflex
+says...sometimes you just gotta show that you're willing to do it.
+
+1:13: I wanted to catch a jump out of shield, but he's still in mash mode.
+
+1:18: Good bait here but bair is really safe so probably try to punish what he
+wants after the bair, fthrow would have done more damage and gotten off stage
+and not staled dash attack.
+
+1:22: Really bad sequence. It was good to sense he didn't want you to get a fair
+followup off that, but you won that, then stopped, did nothing, and did a dtilt
+on his shield. When he's been spamming up-b. Why.
+
+1:26: When someone moves under you while landing it's not an invitation to hit
+them. Cloud is amazing out of shield. And has big disjoints. Don't challenge
+that. Either go to ledge or try to hit the platform after he whiffs the bair.
+
+1:45: Same thing happens here as before. You bait him to land with an aerial but
+Cloud is really safe. So you need to punish what he does AFTER the aerial, not
+the aerial itself.
+
+1:49: You deserve to get up-b here. Better thing to do is to double jump and
+drift back a bit. You can keep your space and reset, but if he does a panic OOS
+option then you can punish.
+
+1:55: Go for a jump callout when he's in the corner like this. What's he gonna
+do? At least after you whiff the ftilt, don't go into shield. Remember that
+Cloud's whole this is really safe aerials. When he jumps you can guarantee that
+what he wants to do is hit your shield with a low safe aerial. Just jump
+backwards and scout  Aftwhat he's gonna do.
+
+2:05: This is the ledge trap that he told you about. The Limit neutral-b will
+cover ledge hang and neutral get up. So good job avoiding it.
+
+2:26: Could have done a better job on this, the triple was really tight because
+of the platform. Maybe empty land onto platform into utilt would have been fast
+enough? FH bite would have worked.
+
+2:31: After he gets hit with these fairs at low percent or where he doesn't
+tech, he's just using up-b immediately. 
+
+2:35: Why retreat after you've taken center? Put out a fair or bair above
+him. He wants to do his jump -> landing safe aerial thing.
+
+2:40: You're behind him so he can't up-b OOS. That means realistically all he
+can do is roll or jump. I think I just chose wrong here, but maybe there is
+something that covers both?
+
+3:37: Good job baiting the up-b OOS. Bad job punishing it.
+
+3:46: That was dumb and you pretty much threw out the game there. 
+
+3:49: No need to roll, you crossed him up. He can't really hit you.
+
+3:50: Honestly not a bad parry attempt and shows that I knew his timings in the
+match. I just messed up execution. 
+
+4:10: Good adaptation by him, he saw that the ledge trap wasn't working so he
+feigned it again and then tried to beat my option.
+
+4:19: Yet another really bad approach. I like how I jumped here. At the apex it
+really looks like I am gonna go in, but I'm fading back. That could have been a
+nice bait.
+
+4:27: I want to do way more of these jumps against Cloud. If you do these enough
+and punish him for trying to out of shield you, eventually he will have to
+respect you in the air and allow you to enter his space.
+
+4:57: Got hit with a good couple few of these. If he's in the air you can pretty
+much assume he will do two things: Land with a safe aerial, or tomahawk. He'll
+only do the first until you show you can beat it. Run up shield is not going to
+work against him, he's too safe.
+
+Takeaways:
+Cloud likes to be in the air and land with spaced landing aerials. He'll only do
+a high aerial on a read. Hit him out of the air, and don't try to shield the
+aerials if you can't avoid it.
+
+Is there something better than fair to do when I think he'll jump?
+
