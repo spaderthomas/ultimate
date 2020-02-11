@@ -1,4 +1,4 @@
-* 5/15/2019 @ Raven's Nest
+* 5/15/2019  @ RVN
 Really need to work on kills
 ** 0-2 vs YugiX (diddy)
 Diddy could only kill with the banana setup, but I couldn't reliably kill
@@ -22,7 +22,7 @@ He loved to roll from ledge, but I missed a lot of my backair reactions on
 that. 
 
 Doc hits harder than you expect. 
-* 5/23/2019 @ RAR
+* 5/23/2019  @ RAR
 ** 0-2 vs Avinia
 Never jump out of Ike's combos. uair will still reach you and you'll die. 
 watch out for how ike mixes up tomahawk, sh nair, full hop nair that hits
@@ -32,7 +32,7 @@ Literally felt like I couldn't do anything. He played YL. I tried to camp so I
 could get waft, but he kept hitting me with every projectile. Not sure what he
 was even calling out, got really tilted. I need to work on evading projectiles
 more. 
-* 5/29/2019 @ Raven's Nest
+* 5/29/2019  @ RVN
 ** 1-2 vs Fallen
 Destroyed his ZSS game 1. Make sure you hit your techs against ZSS so she
 doesn't get totally free tech chases against you. 
@@ -65,7 +65,7 @@ still had trouble covering it.
 Watch out for revenge on Waft :( Can you camp out revenge?
 
 I did well catching him try to take space. 
-* 6/3/2019  @ Tech Chase
+* 6/3/2019   @ TCH
 ** 1-2 vs Chance
 This was a really close set. I'm not 100% sure what I fucked up here. My punish
 was really good. He wanted to go for a lot of dash attack so I did run up shield
@@ -82,7 +82,7 @@ Waft, but it's really hard to land full waft. Pretty much the only way I know
 how is to get a falling up-air, but that isn't an easy move to get, especially
 when they know it's coming. If I can work on that + doing Tweek bike edgeguards,
 I think the Snake matchup will improve a lot. 
-* 9/15/2019 @ We Tech Those
+* 9/15/2019  @ WTT
 ** 2-0 vs JellyTarzan
 Charizard reallllly wants to hit you out of his shield. So don't let him. Get
 those low up-airs on shield and buffer up-tilt. I should make a more formal plan
@@ -120,7 +120,7 @@ Nair high and fast fall the second hit is a really good mixup, but don't abuse
 it. 
 
 Don't immediately go for the second up tilt if the first one whiff. 
-* 10/1/2019 @ Tech Chase
+* 10/1/2019  @ TC
 probably the best tournament i've played!
 
 Round 1 was kind of a wash. I thought that it was going to go badly after
@@ -156,7 +156,7 @@ which I think scared him into the defensive play. Plus my ledge trapping was mad
 on point. I definitely made a point not to spam bite because I knew that he
 wanted to read it. I remember getting a lot of full hop nair, a lot of bite
 later once he realized I wasn't going to spam it, fairs. 
-* 11/7/2019 @ 4o4
+* 11/7/2019  @ 4o4
 Deep breath for the tournament: Watch your landings. Respect disadvantage. You
 have very good drift back, air dodge, and ledge options. Don't hit them unless
 you earn it. Remember to hit your fast fall on nair combos. Watch what they do
@@ -183,7 +183,7 @@ that backair is huge.
 Definitely definitely feel like I could have beaten this guy. You need to
 respect Wonder Wing. Also, respect Banjo's fair. It comes out a lot quicker than
 you think. His go to ledge trap was grenade fsmash. 
-* 11/11/2019 @ Tech Chase
+* 11/11/2019 @ TCH
 ** 0-2 vs QT
 Round 1 was against QT. I didn't realize how aggressive of a player he was, but
 I think that worked in my favor. My lack of gameplan isn't as easily exposed,
@@ -241,7 +241,7 @@ these stupid fat punishes. I got a sick kill off the top with bike into
 up-b. Also got a sweet zero to death.
 ** 1-2 vs DarkForce
 Holy fuck, I hate playing against Villager. 
-* 12/22/2019 @ GB
+* 12/22/2019 @ GBR
 I played friendlies with Omega. He was very good at a couple of things:
 1) Denying my combo starters. I barely got a single nair starter
 2) Getting 30+ off of random hits. Seriously, a stray nair or bair and I was
@@ -303,7 +303,7 @@ hits, and make them less stray. Use moves that you know you can convert off of,
 and know how to convert (my words, not his). Definitely figure out every way
 you can possibly combo into Waft, but also figure out how to extend weird nair
 starters and platform combos. 
-* 1/13/2020 @ Tech Chase
+* 1/13/2020  @ TCH
 I lost my round one against a Snake. My disadvantage was horrible. I'd be
 playing fairly even neutral and then just lose a stock off of one off stage
 interaction. I got dash attacked, tilted up close, up smash -> down smash at the
@@ -341,7 +341,7 @@ How does Glutonny apply pressure to people? It feels like he's usually in his
 opponent's face, crossing them up with nairs, dtilting them, chomping their
 shield. I don't understand how he even gets that close, especially against (for
 example) sword characters. 
-* 1/21/2020 @ Tech Chase
+* 1/21/2020  @ TCH
 RUN BACKWARD, WALK FORWARD. 
 
 ok, so i beat two randoms and i lost to mr mango and solo. 1-2 and 0-2. mango
@@ -414,9 +414,38 @@ to hit in front of where you are.
 i need to lab lab lab lab waft confirms. super hard. i need to get the real
 basic ones down. just work on em and lab em until they are airtight. might need
 to change control scheme. questions to answer:
-* 2/4/2020 @ Battle n Brew
+* 2/4/2020   @ BNB
 Did the best I ever did today. Beat Wenbo, a D3 who was solid, and Rincon. Felt
 good playing. Fear and ego are the mind-killers. As soon as your mind drifts
 away from the game and towards peripheral things, you've lost. You need to stay
 right on that edge of consciousness. Aware of the game and making adjustments,
 but free 
+* 2/10/2020  @ TCH
+I played really well against Gravy for one and a half games. I was up a deep
+three stocks to two. But I got in my own head. I didn't adapt quick enough to
+his changes, and I got really impatient in disadvantage. Remember that it's okay
+to take forty or fifty on a true combo sometimes. Sometimes there just isn't
+that much you can do. Also, be aware of Palutena's combo starters. Bair into
+dash attack is really strong. You did good to adapt to his shielding, but you
+got antsy when you wanted the KO and used way too much dash attack. Just stay
+patient. What do I do when it seems like I can't get out of disadvantage? I also
+needed to be more patient at the ledge when he showed that he was willing to
+wait -- but overall, I did an amazing job of mixing up my timings and my options
+just enough. I did a ton of ledge hop nair, because it kept working, but I mixed
+in the right amount of neutral get up and roll. 
+
+I lost to a Yoshi too. He spammed fadeback fair and utilt. Yoshi is really
+weird. He's basically impossible to contest offstage. He can mash buttons to get
+out of combos. His moves are all really fast and low lag. I would call out his
+dashbacks, but half of the time he'd mix in a dtilt or some spacing normal and
+I'd be out of luck. Don't be afraid to camp the shit out of Yoshi. His buttons
+mean that you don't really want to touch his shield or get hit by one of his
+normals, because he'll have something to follow up with. It's okay to call out
+his jumps (because he really wants to be aerial), but I am really bad at calling
+out jumps with anything besides poking fairs. And that doesn't lead to
+anything. 
+
+Grind waft confirms. Grind them. Practice them until it is physically impossible
+for you to miss them. Know how they start. Know exactly what buttons to
+press. Know kill percents. That's the most important thing you can do as a
+player right now.
